@@ -12,7 +12,7 @@ Current Music List
 Last updated: 2014-12-16
 
 | Title | Artist | Genre | BPM | Event |
-| ----- | ------ |:-----:| --- | ----- |
+| ----- | ------ |:-----:| ---:| ----- |
 | BY☆MY☆SIDE                      | flicknote | Trance Core | 178 | Original Song |
 | [L][曲2]                        | Ice       | Renaissance Prayer | 155 | [BOF2012][] |
 | [Caelumize][曲3]                | void      | Flimscore / Neurocore | 175 | [BOF2013][] |
