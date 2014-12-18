@@ -12,7 +12,7 @@ Current Music List
 
 __Last updated:__ 2014-12-18
 
-__Note:__ This list is for informational purpose only, and not for promoting the game.
+__Disclaimer:__ This list is for informational purpose only, and not for promoting the game.
 Except the BE☆MU☆SE original songs, you can download the BMS files from the link below.
 
 | Title | Artist | Genre | BPM | Event |
@@ -21,7 +21,7 @@ Except the BE☆MU☆SE original songs, you can download the BMS files from the 
 | [L][曲2]                        | [Ice][artist:Ice]             | Renaissance Prayer    | 155 | [BOF2012][] |
 | [Caelumize][曲3]                | [void][artist:void]           | Flimscore / Neurocore | 175 | [BOF2013][] |
 | [AirTrip-SF#2-][曲4]            | [TiS][artist:TiS]             | Progressive Fusion    | 266 | [G2R2014][] |
-| [僕たちの旅とエピローグ。][曲5] | [ああああ][[artist:ああああ]  | game music            | 183 | [G2R2014][] |
+| [僕たちの旅とエピローグ。][曲5] | [ああああ][artist:ああああ]   | game music            | 183 | [G2R2014][] |
 | [Kreuz][曲6]                    | [sky_delta][artist:sky_delta] | IDM                   | 183 | [G2R2014][] |
 
 [曲2]: http://manbow.nothing.sh/event/event.cgi?action=More_def&num=146&event=83
