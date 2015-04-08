@@ -3,6 +3,10 @@
   , "artist": "葵"
   , "genre": "Sexy Dance"
   , "bpm": 128
+  , "artist_url": "http://aoi.prismusic.net/"
+  , "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=131&event=96"
+  , "song_url": "https://soundcloud.com/aoi-kakuta/mou5p223mclf"
+  , "long_url": "https://soundcloud.com/aoi-kakuta/groundbreaking-mix"
   , "charts":
     [ { "file": "olivia_SPA.bml"
       , "md5": "b301d67f3639cd2701c5ef7a25485a34"
@@ -111,6 +115,9 @@
   , "artist": "Ice"
   , "genre": "RENAISSANCE PRAYER"
   , "bpm": 155
+  , "artist_url": "https://soundcloud.com/iceloki"
+  , "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=146&event=83"
+  , "song_url": "https://soundcloud.com/iceloki/l-bms-edit"
   , "charts":
     [ { "file": "L_[DP-Lokinother].bms"
       , "md5": "07bde7731a578ffb1af4a27948b002ac"
@@ -369,9 +376,13 @@
   }
 , { "dir": "[puru]homura"
   , "title": "Homura"
-  , "artist": "Puru / kkkfff2"
+  , "artist": "puru"
   , "genre": "Future Bass"
   , "bpm": 180
+  , "artist_url": "https://soundcloud.com/puru"
+  , "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=242&event=96"
+  , "song_url": "https://soundcloud.com/puru/homura"
+  , "long_url": "https://soundcloud.com/puru/homuraextendmix"
   , "charts":
     [ { "file": "Homura(A).bms"
       , "md5": "53b31ae4944b9d945ea976c0845cf1f8"
@@ -469,9 +480,13 @@
   }
 , { "dir": "[puru]toki"
   , "title": "Toki"
-  , "artist": "puru / kkkfff2"
+  , "artist": "puru"
   , "genre": "ProgressiveTrance"
   , "bpm": 130
+  , "artist_url": "https://soundcloud.com/puru"
+  , "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=101&event=83"
+  , "song_url": "https://soundcloud.com/puru/bof2012-toki-bms-ver"
+  , "long_url": "https://soundcloud.com/pineappledigital/puru-toki-original-mix-preview"
   , "charts":
     [ { "file": "toki_LN1_fix.bms"
       , "md5": "6ce2114a47f2c93a78a537587b1d5554"
@@ -693,6 +708,9 @@
   , "artist": "ああああ"
   , "genre": "game music"
   , "bpm": 170
+  , "artist_url": "https://soundcloud.com/ricora"
+  , "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=98&event=96"
+  , "song_url": "https://soundcloud.com/ricora/g2rbms"
   , "charts":
     [ { "file": "another.bms"
       , "md5": "23b6aae160154b4dda9cbca7c4368c1c"
@@ -770,6 +788,9 @@
   , "artist": "sky_delta"
   , "genre": "IDM"
   , "bpm": 183
+  , "artist_url": "https://soundcloud.com/sky_delta"
+  , "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=89&event=96"
+  , "song_url": "https://soundcloud.com/sky_delta/kreuz"
   , "charts":
     [ { "file": "kreuz_spa.bms"
       , "md5": "5c29aeca8a8b2f303d6587f50277c939"
@@ -847,6 +868,9 @@
   , "artist": "Snack"
   , "genre": "Tribute"
   , "bpm": 200
+  , "artist_url": "http://korsnack.kr/"
+  , "bms_url": "http://k-bms.com/party_pabat/party2015.jsp?board_num=15&num=16&order=reg&odtype=a"
+  , "song_url": "https://soundcloud.com/korsnack/ddddevelopers"
   , "charts":
     [ { "file": "dddd_dpa.bme"
       , "md5": "1d33d50e2d0a06e85f8eb6b5eab8ea08"
@@ -1016,6 +1040,9 @@
   , "artist": "TiS"
   , "genre": "PROGRESSIVE FUSION"
   , "bpm": 266
+  , "artist_url": "https://soundcloud.com/house-x"
+  , "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=154&event=96"
+  , "song_url": "https://soundcloud.com/house-x/airtrip-bms-mix"
   , "charts":
     [ { "file": "airtrip_a.bme"
       , "md5": "f14357d72c2c11081fd45dc00aa4cffa"
@@ -1093,6 +1120,9 @@
   , "artist": "void"
   , "genre": "Filmscore / Neurocore"
   , "bpm": 175
+  , "artist_url": "http://mournfinale.com/"
+  , "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=389&event=88"
+  , "long_url": "https://soundcloud.com/mournfinale/void-caelumize"
   , "charts":
     [ { "file": "01spb.bml"
       , "md5": "dcbbecfead7fd61547c2e37910bf656f"
@@ -1190,9 +1220,12 @@
   }
 , { "dir": "[w_tre]chicken"
   , "title": "CHICKEN for the WIN"
-  , "artist": "innkeeper"
+  , "artist": "w_tre"
   , "genre": "electro"
   , "bpm": 128
+  , "artist_url": "http://soundcloud.com/7_wtre"
+  , "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=32&event=96"
+  , "song_url": "https://soundcloud.com/7_wtre/c4tw"
   , "charts":
     [ { "file": "chicken_5a.bms"
       , "md5": "feadbe808a674445c759145c039036ce"
@@ -1351,6 +1384,9 @@
   , "artist": "w_tre"
   , "genre": "piano"
   , "bpm": 90
+  , "artist_url": "http://soundcloud.com/7_wtre"
+  , "bms_url": "http://k-bms.com/party_pabat/party2015.jsp?board_num=15&num=32&order=reg&odtype=a"
+  , "song_url": "https://soundcloud.com/7_wtre/mom"
   , "charts":
     [ { "file": "mom_s1.bme"
       , "md5": "9ca6f832f8d5b85549c3129e740d1705"
@@ -1450,9 +1486,12 @@
   }
 , { "dir": "[yukitani]acp"
   , "title": "Amusing Colorful Pudding."
-  , "artist": "yukitani / DKN"
+  , "artist": "yukitani"
   , "genre": "Electro Swing Pop"
   , "bpm": 226
+  , "artist_url": "https://soundcloud.com/yukitani"
+  , "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=147&event=96"
+  , "song_url": "https://soundcloud.com/yukitani/amusing-colorful-pudding"
   , "charts":
     [ { "file": "acp.bme"
       , "md5": "1df76e4d513ea545bf5cadfd52731abe"
