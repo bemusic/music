@@ -110,6 +110,40 @@
       }
     ]
   }
+, { "dir": "[flicknote]bymyside"
+  , "title": "BY☆MY☆SIDE"
+  , "artist": "flicknote"
+  , "genre": "Trance Core"
+  , "bpm": 178
+  , "artist_url": "https://soundcloud.com/o_ooooo"
+  , "song_url": "https://soundcloud.com/o_ooooo/by-my-side"
+  , "tutorial": 1
+  , "charts":
+    [ { "file": "ByMySide-TUTORIAL.bms"
+      , "md5": "006d92b8410a8683f347f2bee424d9c1"
+      , "info":
+        { "title": "BY☆MY☆SIDE"
+        , "artist": "flicknote"
+        , "genre": "Trance Core"
+        , "subtitles":
+          [ "TUTORIAL"
+          ]
+        , "subartists": []
+        , "difficulty": 0
+        , "level": 0
+        }
+      , "noteCount": 511
+      , "scratch": true
+      , "keys": "7K"
+      , "bpm":
+        { "init": 178
+        , "min": 178
+        , "median": 178
+        , "max": 178
+        }
+      }
+    ]
+  }
 , { "dir": "[ice]l"
   , "title": "L"
   , "artist": "Ice"
