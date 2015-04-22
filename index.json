@@ -111,6 +111,7 @@
           }
         }
       ]
+    , "readme": "README.md"
     }
   , { "id": "[flicknote]bymyside"
     , "path": "[flicknote]bymyside"
@@ -146,6 +147,7 @@
           }
         }
       ]
+    , "readme": "README.md"
     }
   , { "id": "[ice]l"
     , "path": "[ice]l"
@@ -411,6 +413,7 @@
           }
         }
       ]
+    , "readme": "README.md"
     }
   , { "id": "[puru]homura"
     , "path": "[puru]homura"
@@ -516,6 +519,7 @@
           }
         }
       ]
+    , "readme": "README.md"
     }
   , { "id": "[puru]toki"
     , "path": "[puru]toki"
@@ -742,6 +746,7 @@
           }
         }
       ]
+    , "readme": "README.md"
     }
   , { "id": "[ricora]epilogue"
     , "path": "[ricora]epilogue"
@@ -823,6 +828,7 @@
           }
         }
       ]
+    , "readme": "README.md"
     }
   , { "id": "[sky_delta]kreuz"
     , "path": "[sky_delta]kreuz"
@@ -904,6 +910,7 @@
           }
         }
       ]
+    , "readme": "README.md"
     }
   , { "id": "[snack]dddd"
     , "path": "[snack]dddd"
@@ -1077,6 +1084,7 @@
           }
         }
       ]
+    , "readme": "README.md"
     }
   , { "id": "[tis]airtrip"
     , "path": "[tis]airtrip"
@@ -1158,6 +1166,7 @@
           }
         }
       ]
+    , "readme": "README.md"
     }
   , { "id": "[void]caelumize"
     , "path": "[void]caelumize"
@@ -1262,6 +1271,7 @@
           }
         }
       ]
+    , "readme": "README.md"
     }
   , { "id": "[w_tre]chicken"
     , "path": "[w_tre]chicken"
@@ -1424,6 +1434,7 @@
           }
         }
       ]
+    , "readme": "README.md"
     }
   , { "id": "[w_tre]mom"
     , "path": "[w_tre]mom"
@@ -1530,6 +1541,7 @@
           }
         }
       ]
+    , "readme": "README.md"
     }
   , { "id": "[yukitani]acp"
     , "path": "[yukitani]acp"
@@ -1611,6 +1623,7 @@
           }
         }
       ]
+    , "readme": "README.md"
     }
   ]
 }
