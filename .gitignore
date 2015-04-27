@@ -13,6 +13,7 @@
 *.png
 *.jpg
 *.gif
+*.cache
 
 /test/
 
