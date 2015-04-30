@@ -424,6 +424,7 @@
     , "artist_url": "https://soundcloud.com/kanki2"
     , "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=280&event=96"
     , "long_url": "https://soundcloud.com/kanki2/harmonylong-ver"
+    , "added": "2015-04-29T00:00:00.000Z"
     , "charts":
       [ { "file": "[sabun]7key_very_easy.bme"
         , "md5": "47b7f262e3a39b404a9ec1d30b720737"
@@ -540,6 +541,303 @@
           , "min": 172
           , "median": 172
           , "max": 172
+          }
+        }
+      ]
+    , "readme": "README.md"
+    }
+  , { "id": "[litmus]latch"
+    , "path": "[litmus]latch"
+    , "title": "Latch (Flip-Flop)"
+    , "artist": "litmus*"
+    , "genre": "Electro House"
+    , "bpm": 136
+    , "artist_url": "http://tron002.blog.me/"
+    , "bms_url": "http://k-bms.com/party_pabat/party2015.jsp?board_num=15&num=3&order=reg&odtype=a"
+    , "song_url": "https://soundcloud.com/ayano-quasar/latch-flip-flop"
+    , "added": "2015-04-30T00:00:00.000Z"
+    , "charts":
+      [ { "file": "litmus_latch_7a.bme"
+        , "md5": "5ee748d06edbe6bbc8a15aa74c1f3ff7"
+        , "info":
+          { "title": "Latch (Flip-Flop)"
+          , "artist": "litmus*"
+          , "genre": "Electro House"
+          , "subtitles":
+            [ "Another"
+            ]
+          , "subartists": []
+          , "difficulty": 4
+          , "level": 10
+          }
+        , "noteCount": 1143
+        , "scratch": true
+        , "keys": "7K"
+        , "bpm":
+          { "init": 136
+          , "min": 136
+          , "median": 136
+          , "max": 136
+          }
+        }
+      , { "file": "litmus_latch_7h.bme"
+        , "md5": "ff72b721763aa49968f7d8a8ba04f814"
+        , "info":
+          { "title": "Latch (Flip-Flop)"
+          , "artist": "litmus*"
+          , "genre": "Electro House"
+          , "subtitles":
+            [ "Hyper"
+            ]
+          , "subartists": []
+          , "difficulty": 3
+          , "level": 7
+          }
+        , "noteCount": 799
+        , "scratch": true
+        , "keys": "7K"
+        , "bpm":
+          { "init": 136
+          , "min": 136
+          , "median": 136
+          , "max": 136
+          }
+        }
+      , { "file": "litmus_latch_7n.bme"
+        , "md5": "d82734e33b2ebe02eb0a64c0c5253af5"
+        , "info":
+          { "title": "Latch (Flip-Flop)"
+          , "artist": "litmus*"
+          , "genre": "Electro House"
+          , "subtitles":
+            [ "Normal"
+            ]
+          , "subartists": []
+          , "difficulty": 2
+          , "level": 3
+          }
+        , "noteCount": 339
+        , "scratch": true
+        , "keys": "7K"
+        , "bpm":
+          { "init": 136
+          , "min": 136
+          , "median": 136
+          , "max": 136
+          }
+        }
+      ]
+    , "readme": "README.md"
+    }
+  , { "id": "[litmus]scorpiondance"
+    , "path": "[litmus]scorpiondance"
+    , "title": "Scorpion Dance"
+    , "artist": "litmus*"
+    , "genre": "Electro Dance House"
+    , "bpm": 134
+    , "artist_url": "http://tron002.blog.me/"
+    , "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=15&event=96"
+    , "song_url": "https://soundcloud.com/ayano-quasar/scorpion-dance"
+    , "added": "2015-04-30T00:00:00.000Z"
+    , "charts":
+      [ { "file": "litmus_scorpiondance_7a.bme"
+        , "md5": "350371601afb94c70fa9f5ae4f67af29"
+        , "info":
+          { "title": "Scorpion Dance"
+          , "artist": "litmus*"
+          , "genre": "Electro Dance House"
+          , "subtitles":
+            [ "SP Another"
+            ]
+          , "subartists":
+            [ "mov : litmus* & L.Ferdinant / obj : SmiGoon"
+            ]
+          , "difficulty": 4
+          , "level": 10
+          }
+        , "noteCount": 1119
+        , "scratch": true
+        , "keys": "7K"
+        , "bpm":
+          { "init": 134
+          , "min": 134
+          , "median": 134
+          , "max": 134
+          }
+        }
+      , { "file": "litmus_scorpiondance_7b.bme"
+        , "md5": "aad5e34ffc556aa954f93d2515f3ed0b"
+        , "info":
+          { "title": "Scorpion Dance"
+          , "artist": "litmus*"
+          , "genre": "Electro Dance House"
+          , "subtitles":
+            [ "SP Beginner"
+            ]
+          , "subartists":
+            [ "mov : litmus* & L.Ferdinant / obj : SmiGoon"
+            ]
+          , "difficulty": 1
+          , "level": 3
+          }
+        , "noteCount": 302
+        , "scratch": true
+        , "keys": "7K"
+        , "bpm":
+          { "init": 134
+          , "min": 134
+          , "median": 134
+          , "max": 134
+          }
+        }
+      , { "file": "litmus_scorpiondance_7h.bme"
+        , "md5": "41b91a67670cf567329abba3b459f413"
+        , "info":
+          { "title": "Scorpion Dance"
+          , "artist": "litmus*"
+          , "genre": "Electro Dance House"
+          , "subtitles":
+            [ "SP Hyper"
+            ]
+          , "subartists":
+            [ "mov : litmus* & L.Ferdinant / obj : litmus*"
+            ]
+          , "difficulty": 3
+          , "level": 9
+          }
+        , "noteCount": 836
+        , "scratch": true
+        , "keys": "7K"
+        , "bpm":
+          { "init": 134
+          , "min": 134
+          , "median": 134
+          , "max": 134
+          }
+        }
+      , { "file": "litmus_scorpiondance_7n.bme"
+        , "md5": "18f63b7267074871fe01112351323a19"
+        , "info":
+          { "title": "Scorpion Dance"
+          , "artist": "litmus*"
+          , "genre": "Electro Dance House"
+          , "subtitles":
+            [ "SP Normal"
+            ]
+          , "subartists":
+            [ "mov : litmus* & L.Ferdinant / obj : SmiGoon"
+            ]
+          , "difficulty": 2
+          , "level": 5
+          }
+        , "noteCount": 520
+        , "scratch": true
+        , "keys": "7K"
+        , "bpm":
+          { "init": 134
+          , "min": 134
+          , "median": 134
+          , "max": 134
+          }
+        }
+      , { "file": "litmus_scorpiondance_DPA.bme"
+        , "md5": "cd08172d882815ec050329e414d902b9"
+        , "info":
+          { "title": "Scorpion Dance"
+          , "artist": "litmus*"
+          , "genre": "Electro Dance House"
+          , "subtitles":
+            [ "DP Another"
+            ]
+          , "subartists":
+            [ "mov : litmus & L.Ferdinant / obj. Z_N"
+            ]
+          , "difficulty": 4
+          , "level": 11
+          }
+        , "noteCount": 763
+        , "scratch": true
+        , "keys": "14K"
+        , "bpm":
+          { "init": 134
+          , "min": 134
+          , "median": 134
+          , "max": 134
+          }
+        }
+      , { "file": "litmus_scorpiondance_DPH.bme"
+        , "md5": "b5596ea5ec3c7b56fe1fc2d78c0dcaea"
+        , "info":
+          { "title": "Scorpion Dance"
+          , "artist": "litmus*"
+          , "genre": "Electro Dance House"
+          , "subtitles":
+            [ "DP Hyper"
+            ]
+          , "subartists":
+            [ "mov : litmus & L.Ferdinant / obj. Z_N"
+            ]
+          , "difficulty": 3
+          , "level": 8
+          }
+        , "noteCount": 457
+        , "scratch": true
+        , "keys": "14K"
+        , "bpm":
+          { "init": 134
+          , "min": 134
+          , "median": 134
+          , "max": 134
+          }
+        }
+      , { "file": "litmus_scorpiondance_DPN.bme"
+        , "md5": "412f3758d32dce6231d07a5589196e76"
+        , "info":
+          { "title": "Scorpion Dance"
+          , "artist": "litmus*"
+          , "genre": "Electro Dance House"
+          , "subtitles":
+            [ "DP Normal"
+            ]
+          , "subartists":
+            [ "mov : litmus & L.Ferdinant / obj. Z_N"
+            ]
+          , "difficulty": 2
+          , "level": 5
+          }
+        , "noteCount": 272
+        , "scratch": true
+        , "keys": "14K"
+        , "bpm":
+          { "init": 134
+          , "min": 134
+          , "median": 134
+          , "max": 134
+          }
+        }
+      , { "file": "litmus_scorpiondance_insane.bme"
+        , "md5": "92534ba8547ae6943dc5a99b7ddd0728"
+        , "info":
+          { "title": "Scorpion Dance"
+          , "artist": "litmus*/obj_jakko"
+          , "genre": "Electro Dance House"
+          , "subtitles":
+            [ "INSANE"
+            ]
+          , "subartists":
+            [ "mov : litmus* & L.Ferdinant"
+            ]
+          , "difficulty": 5
+          , "level": 13
+          }
+        , "noteCount": 1801
+        , "scratch": true
+        , "keys": "7K"
+        , "bpm":
+          { "init": 134
+          , "min": 134
+          , "median": 134
+          , "max": 134
           }
         }
       ]
