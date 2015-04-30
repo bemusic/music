@@ -425,7 +425,32 @@
     , "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=280&event=96"
     , "long_url": "https://soundcloud.com/kanki2/harmonylong-ver"
     , "charts":
-      [ { "file": "_7key_another.bme"
+      [ { "file": "[sabun]7key_very_easy.bme"
+        , "md5": "47b7f262e3a39b404a9ec1d30b720737"
+        , "info":
+          { "title": "Harmony"
+          , "artist": "Lime / 温泉の力"
+          , "genre": "kawaiicore"
+          , "subtitles":
+            [ "Very Easy"
+            ]
+          , "subartists":
+            [ "obj: flicknote"
+            ]
+          , "difficulty": 1
+          , "level": 2
+          }
+        , "noteCount": 303
+        , "scratch": true
+        , "keys": "7K"
+        , "bpm":
+          { "init": 172
+          , "min": 172
+          , "median": 172
+          , "max": 172
+          }
+        }
+      , { "file": "7key_another.bme"
         , "md5": "c9f2ce3912aca3fd1892c2ef461ab93c"
         , "info":
           { "title": "Harmony"
@@ -448,7 +473,7 @@
           , "max": 172
           }
         }
-      , { "file": "_7key_beginner.bme"
+      , { "file": "7key_beginner.bme"
         , "md5": "c2f50ba7a9fb5f44648b4a370832bb80"
         , "info":
           { "title": "Harmony"
@@ -471,7 +496,7 @@
           , "max": 172
           }
         }
-      , { "file": "_7key_hyper.bme"
+      , { "file": "7key_hyper.bme"
         , "md5": "8641a7fad2690d6fb409095849682e57"
         , "info":
           { "title": "Harmony"
@@ -494,7 +519,7 @@
           , "max": 172
           }
         }
-      , { "file": "_7key_normal.bme"
+      , { "file": "7key_normal.bme"
         , "md5": "f839a9882102ce2eddbe03dc9bedc850"
         , "info":
           { "title": "Harmony"
