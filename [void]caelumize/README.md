@@ -3,6 +3,7 @@ artist: void
 artist_url: http://mournfinale.com/
 bms_url: http://manbow.nothing.sh/event/event.cgi?action=More_def&num=389&event=88
 long_url: https://soundcloud.com/mournfinale/void-caelumize
+youtube_url: https://www.youtube.com/watch?v=93fA-ZVD_i4
 ---
 
 TITLE : Caelumize

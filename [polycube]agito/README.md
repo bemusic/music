@@ -4,6 +4,7 @@ artist_url: https://soundcloud.com/polycube
 bms_url: http://manbow.nothing.sh/event/event.cgi?action=More_def&num=46&event=96
 song_url: https://soundcloud.com/polycube/agito
 added: 2015-05-08
+youtube_url: https://www.youtube.com/watch?v=hVFwvPIbR7c
 ---
 
     **

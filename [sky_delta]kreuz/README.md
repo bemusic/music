@@ -3,6 +3,7 @@ artist: sky_delta
 artist_url: https://soundcloud.com/sky_delta
 bms_url: http://manbow.nothing.sh/event/event.cgi?action=More_def&num=89&event=96
 song_url: https://soundcloud.com/sky_delta/kreuz
+youtube_url: https://www.youtube.com/watch?v=lqOmjcuF-No
 ---
 
 G2R2014

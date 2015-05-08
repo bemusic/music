@@ -4,6 +4,7 @@ artist_url: http://tron002.blog.me/
 bms_url: http://manbow.nothing.sh/event/event.cgi?action=More_def&num=15&event=96
 song_url: https://soundcloud.com/ayano-quasar/scorpion-dance
 added: 2015-04-30
+youtube_url: https://www.youtube.com/watch?v=9C7zxHckers
 ---
 
 ```

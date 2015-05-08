@@ -3,6 +3,7 @@ artist: w_tre
 artist_url: http://soundcloud.com/7_wtre
 bms_url: http://k-bms.com/party_pabat/party2015.jsp?board_num=15&num=32&order=reg&odtype=a
 song_url: https://soundcloud.com/7_wtre/mom
+youtube_url: https://www.youtube.com/watch?v=Ti4oRsUZ8kQ
 ---
 
 PABAT!2015

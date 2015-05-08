@@ -9,6 +9,7 @@
     , "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=131&event=96"
     , "song_url": "https://soundcloud.com/aoi-kakuta/mou5p223mclf"
     , "long_url": "https://soundcloud.com/aoi-kakuta/groundbreaking-mix"
+    , "youtube_url": "https://www.youtube.com/watch?v=IUAE-nai4Vc"
     , "charts":
       [ { "file": "olivia_SPA.bml"
         , "md5": "b301d67f3639cd2701c5ef7a25485a34"
@@ -158,6 +159,7 @@
     , "artist_url": "https://soundcloud.com/iceloki"
     , "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=146&event=83"
     , "song_url": "https://soundcloud.com/iceloki/l-bms-edit"
+    , "youtube_url": "https://www.youtube.com/watch?v=ZXy_1LA-RlA"
     , "charts":
       [ { "file": "L_[DP-Lokinother].bms"
         , "md5": "07bde7731a578ffb1af4a27948b002ac"
@@ -556,6 +558,7 @@
     , "bms_url": "http://k-bms.com/party_pabat/party2015.jsp?board_num=15&num=3&order=reg&odtype=a"
     , "song_url": "https://soundcloud.com/ayano-quasar/latch-flip-flop"
     , "added": "2015-04-30T00:00:00.000Z"
+    , "youtube_url": "https://www.youtube.com/watch?v=9C7zxHckers"
     , "charts":
       [ { "file": "litmus_latch_7a.bme"
         , "md5": "5ee748d06edbe6bbc8a15aa74c1f3ff7"
@@ -639,6 +642,7 @@
     , "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=15&event=96"
     , "song_url": "https://soundcloud.com/ayano-quasar/scorpion-dance"
     , "added": "2015-04-30T00:00:00.000Z"
+    , "youtube_url": "https://www.youtube.com/watch?v=9C7zxHckers"
     , "charts":
       [ { "file": "litmus_scorpiondance_7a.bme"
         , "md5": "350371601afb94c70fa9f5ae4f67af29"
@@ -853,6 +857,7 @@
     , "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=46&event=96"
     , "song_url": "https://soundcloud.com/polycube/agito"
     , "added": "2015-05-08T00:00:00.000Z"
+    , "youtube_url": "https://www.youtube.com/watch?v=hVFwvPIbR7c"
     , "charts":
       [ { "file": "[utf8]01.bme"
         , "md5": "bb32cc9021a4dfb60c76911b977cd856"
@@ -1088,6 +1093,7 @@
     , "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=101&event=83"
     , "song_url": "https://soundcloud.com/puru/bof2012-toki-bms-ver"
     , "long_url": "https://soundcloud.com/pineappledigital/puru-toki-original-mix-preview"
+    , "youtube_url": "https://www.youtube.com/watch?v=9hLkkNCL-yM"
     , "charts":
       [ { "file": "toki_another14.bms"
         , "md5": "ea0ab466efb607f7429b31e8a63b09f4"
@@ -1396,6 +1402,7 @@
     , "artist_url": "https://soundcloud.com/sky_delta"
     , "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=89&event=96"
     , "song_url": "https://soundcloud.com/sky_delta/kreuz"
+    , "youtube_url": "https://www.youtube.com/watch?v=lqOmjcuF-No"
     , "charts":
       [ { "file": "kreuz_spa.bms"
         , "md5": "5c29aeca8a8b2f303d6587f50277c939"
@@ -1478,6 +1485,7 @@
     , "artist_url": "http://korsnack.kr/"
     , "bms_url": "http://k-bms.com/party_pabat/party2015.jsp?board_num=15&num=16&order=reg&odtype=a"
     , "song_url": "https://soundcloud.com/korsnack/ddddevelopers"
+    , "youtube_url": "https://www.youtube.com/watch?v=ovgcVc5wb9E"
     , "charts":
       [ { "file": "dddd_dpa.bme"
         , "md5": "1d33d50e2d0a06e85f8eb6b5eab8ea08"
@@ -1734,6 +1742,7 @@
     , "artist_url": "http://mournfinale.com/"
     , "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=389&event=88"
     , "long_url": "https://soundcloud.com/mournfinale/void-caelumize"
+    , "youtube_url": "https://www.youtube.com/watch?v=93fA-ZVD_i4"
     , "charts":
       [ { "file": "01spb.bml"
         , "md5": "dcbbecfead7fd61547c2e37910bf656f"
@@ -2002,6 +2011,7 @@
     , "artist_url": "http://soundcloud.com/7_wtre"
     , "bms_url": "http://k-bms.com/party_pabat/party2015.jsp?board_num=15&num=32&order=reg&odtype=a"
     , "song_url": "https://soundcloud.com/7_wtre/mom"
+    , "youtube_url": "https://www.youtube.com/watch?v=Ti4oRsUZ8kQ"
     , "charts":
       [ { "file": "mom_s1.bme"
         , "md5": "9ca6f832f8d5b85549c3129e740d1705"
