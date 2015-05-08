@@ -843,6 +843,135 @@
       ]
     , "readme": "README.md"
     }
+  , { "id": "[polycube]agito"
+    , "path": "[polycube]agito"
+    , "title": "Agito"
+    , "artist": "polycube"
+    , "genre": "MUSIC"
+    , "bpm": 172
+    , "artist_url": "https://soundcloud.com/polycube"
+    , "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=46&event=96"
+    , "song_url": "https://soundcloud.com/polycube/agito"
+    , "added": "2015-05-08T00:00:00.000Z"
+    , "charts":
+      [ { "file": "[utf8]01.bme"
+        , "md5": "bb32cc9021a4dfb60c76911b977cd856"
+        , "info":
+          { "title": "Agito"
+          , "artist": "polycube × 鑓田(alpha complex)"
+          , "genre": "MUSIC"
+          , "subtitles":
+            [ "[B]"
+            ]
+          , "subartists": []
+          , "difficulty": 1
+          , "level": 1
+          }
+        , "noteCount": 108
+        , "scratch": true
+        , "keys": "7K"
+        , "bpm":
+          { "init": 172
+          , "min": 172
+          , "median": 172
+          , "max": 172
+          }
+        }
+      , { "file": "[utf8]02.bme"
+        , "md5": "485e91da9b51589a61484173ecea02c9"
+        , "info":
+          { "title": "Agito"
+          , "artist": "polycube × 鑓田(alpha complex)"
+          , "genre": "MUSIC"
+          , "subtitles":
+            [ "[N]"
+            ]
+          , "subartists": []
+          , "difficulty": 2
+          , "level": 3
+          }
+        , "noteCount": 392
+        , "scratch": true
+        , "keys": "7K"
+        , "bpm":
+          { "init": 172
+          , "min": 172
+          , "median": 172
+          , "max": 172
+          }
+        }
+      , { "file": "[utf8]03.bme"
+        , "md5": "2d770604e757587b795434a4639473bf"
+        , "info":
+          { "title": "Agito"
+          , "artist": "polycube × 鑓田(alpha complex)"
+          , "genre": "MUSIC"
+          , "subtitles":
+            [ "[H]"
+            ]
+          , "subartists": []
+          , "difficulty": 3
+          , "level": 7
+          }
+        , "noteCount": 691
+        , "scratch": true
+        , "keys": "7K"
+        , "bpm":
+          { "init": 172
+          , "min": 172
+          , "median": 172
+          , "max": 172
+          }
+        }
+      , { "file": "[utf8]04.bme"
+        , "md5": "4da0b15569f023721d71ee6b5ab2cc6a"
+        , "info":
+          { "title": "Agito"
+          , "artist": "polycube × 鑓田(alpha complex)"
+          , "genre": "MUSIC"
+          , "subtitles":
+            [ "[A]"
+            ]
+          , "subartists": []
+          , "difficulty": 4
+          , "level": 10
+          }
+        , "noteCount": 992
+        , "scratch": true
+        , "keys": "7K"
+        , "bpm":
+          { "init": 172
+          , "min": 172
+          , "median": 172
+          , "max": 172
+          }
+        }
+      , { "file": "[utf8]05.bme"
+        , "md5": "4cd33b039b27cb76f99881ad5504f40e"
+        , "info":
+          { "title": "Agito"
+          , "artist": "polycube × 鑓田(alpha complex)"
+          , "genre": "MUSIC"
+          , "subtitles":
+            [ "[I]"
+            ]
+          , "subartists": []
+          , "difficulty": 5
+          , "level": 12
+          }
+        , "noteCount": 1881
+        , "scratch": true
+        , "keys": "7K"
+        , "bpm":
+          { "init": 172
+          , "min": 172
+          , "median": 172
+          , "max": 172
+          }
+        }
+      ]
+    , "readme": "README.md"
+    }
   , { "id": "[puru]homura"
     , "path": "[puru]homura"
     , "title": "Homura"
