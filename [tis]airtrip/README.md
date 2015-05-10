@@ -1,8 +1,8 @@
 ---
 artist: TiS
-artist_url: https://soundcloud.com/house-x
+artist_url: https://soundcloud.com/cineraria_studio
 bms_url: http://manbow.nothing.sh/event/event.cgi?action=More_def&num=154&event=96
-song_url: https://soundcloud.com/house-x/airtrip-bms-mix
+song_url: https://soundcloud.com/cineraria_studio/airtrip-bms-mix
 ---
 
 Progressive Fusion / AirTrip-SF#2-

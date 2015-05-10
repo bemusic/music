@@ -1657,9 +1657,9 @@
     , "artist": "TiS"
     , "genre": "PROGRESSIVE FUSION"
     , "bpm": 266
-    , "artist_url": "https://soundcloud.com/house-x"
+    , "artist_url": "https://soundcloud.com/cineraria_studio"
     , "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=154&event=96"
-    , "song_url": "https://soundcloud.com/house-x/airtrip-bms-mix"
+    , "song_url": "https://soundcloud.com/cineraria_studio/airtrip-bms-mix"
     , "charts":
       [ { "file": "airtrip_a.bme"
         , "md5": "f14357d72c2c11081fd45dc00aa4cffa"
