@@ -847,6 +847,90 @@
       ]
     , "readme": "README.md"
     }
+  , { "id": "[pluck_ryo]futurity"
+    , "path": "[pluck_ryo]futurity"
+    , "title": "Futurity"
+    , "artist": "Ryo Nakamura"
+    , "genre": "Electro House"
+    , "bpm": 130
+    , "artist_url": "https://soundcloud.com/pluck_ryo"
+    , "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=260&event=96"
+    , "song_url": "https://soundcloud.com/pluck_ryo/g2r2014-futurity"
+    , "long_url": "https://soundcloud.com/pluck_ryo/groundbreaking-g2r2014-futurity-original-mix"
+    , "added": "2015-05-14T00:00:00.000Z"
+    , "charts":
+      [ { "file": "futurity_a.bms"
+        , "md5": "2c3e80ff3d17213ddc8cbe0ee77bde79"
+        , "info":
+          { "title": "Futurity"
+          , "artist": "Ryo Nakamura"
+          , "genre": "Electro House"
+          , "subtitles":
+            [ "Another"
+            ]
+          , "subartists": []
+          , "difficulty": 0
+          , "level": 10
+          }
+        , "noteCount": 892
+        , "scratch": true
+        , "keys": "7K"
+        , "bpm":
+          { "init": 130
+          , "min": 130
+          , "median": 130
+          , "max": 130
+          }
+        }
+      , { "file": "futurity_h.bms"
+        , "md5": "e2a580cee9c150c24d59262371534fc9"
+        , "info":
+          { "title": "Futurity"
+          , "artist": "Ryo Nakamura"
+          , "genre": "Electro House"
+          , "subtitles":
+            [ "Hyper"
+            ]
+          , "subartists": []
+          , "difficulty": 0
+          , "level": 8
+          }
+        , "noteCount": 704
+        , "scratch": true
+        , "keys": "7K"
+        , "bpm":
+          { "init": 130
+          , "min": 130
+          , "median": 130
+          , "max": 130
+          }
+        }
+      , { "file": "futurity_n.bms"
+        , "md5": "4205fb0b86522a04f21a09cb4eb98fd6"
+        , "info":
+          { "title": "Futurity"
+          , "artist": "Ryo Nakamura"
+          , "genre": "Electro House"
+          , "subtitles":
+            [ "Normal"
+            ]
+          , "subartists": []
+          , "difficulty": 0
+          , "level": 6
+          }
+        , "noteCount": 448
+        , "scratch": true
+        , "keys": "7K"
+        , "bpm":
+          { "init": 130
+          , "min": 130
+          , "median": 130
+          , "max": 130
+          }
+        }
+      ]
+    , "readme": "README.md"
+    }
   , { "id": "[polycube]agito"
     , "path": "[polycube]agito"
     , "title": "Agito"
