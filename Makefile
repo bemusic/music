@@ -3,6 +3,6 @@ artists.json: index.json
 	node genartists.js
 
 index.json: .force
-	bemusepack index
+	bemuse-tools index
 
 .force:

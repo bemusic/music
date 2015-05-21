@@ -3,9 +3,10 @@ var out = []
 var already = {}
 
 require('./index.json').songs.forEach(function(song) {
-  if (!already[song.artist] && song.artist !== 'flicknote') {
-    out.push({ name: song.artist, url: song.artist_url })
-    already[song.artist] = true
+  var artist = song.alias_of || song.artist
+  if (!already[artist] && artist !== 'flicknote') {
+    out.push({ name: artist, url: song.artist_url })
+    already[artist] = true
   }
 })
 
