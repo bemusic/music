@@ -1,5 +1,6 @@
 ---
-artist: daisan
+artist: daisan feat. えみゅう。
+alias_of: daisan
 artist_url: http://clockxellox.sakura.ne.jp/
 bms_url: http://manbow.nothing.sh/event/event.cgi?action=More_def&num=30&event=98
 youtube_url: https://www.youtube.com/watch?v=mBTt_1bD_nY
