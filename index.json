@@ -486,6 +486,116 @@
     , "id": "[chitose]musica_de_aves"
     , "path": "[chitose]musica_de_aves"
     }
+  , { "title": "Dance Doll Dream"
+    , "artist": "daisan"
+    , "genre": "Waltz"
+    , "bpm": 200
+    , "artist_url": "http://clockxellox.sakura.ne.jp/"
+    , "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=30&event=98"
+    , "added": "2015-05-26T00:00:00.000Z"
+    , "readme": "README.md"
+    , "charts":
+      [ { "md5": "901c4759a1f4487b320cf974a8ddd8be"
+        , "info":
+          { "title": "Dance Doll Dream"
+          , "artist": "daisan feat. えみゅう。 / zue-row"
+          , "genre": "Waltz"
+          , "subtitles":
+            [ "Another"
+            ]
+          , "subartists": []
+          , "difficulty": 4
+          , "level": 9
+          }
+        , "noteCount": 1319
+        , "scratch": true
+        , "keys": "7K"
+        , "bpm":
+          { "init": 200
+          , "min": 160
+          , "median": 200
+          , "max": 200
+          }
+        , "duration": 164.71860902255636
+        , "file": "ddd_A.bme"
+        }
+      , { "md5": "77877b930d547afe6e98ac4ac1e4b6ad"
+        , "info":
+          { "title": "Dance Doll Dream"
+          , "artist": "daisan feat. えみゅう。 / zue-row"
+          , "genre": "Waltz"
+          , "subtitles":
+            [ "Beginner"
+            ]
+          , "subartists": []
+          , "difficulty": 1
+          , "level": 2
+          }
+        , "noteCount": 206
+        , "scratch": true
+        , "keys": "7K"
+        , "bpm":
+          { "init": 200
+          , "min": 160
+          , "median": 200
+          , "max": 200
+          }
+        , "duration": 164.71860902255636
+        , "file": "ddd_B.bme"
+        }
+      , { "md5": "819cf57e78e6bb8f6b0c58bfd7b9bee0"
+        , "info":
+          { "title": "Dance Doll Dream"
+          , "artist": "daisan feat. えみゅう。 / zue-row"
+          , "genre": "Waltz"
+          , "subtitles":
+            [ "Hyper"
+            ]
+          , "subartists": []
+          , "difficulty": 3
+          , "level": 7
+          }
+        , "noteCount": 1017
+        , "scratch": true
+        , "keys": "7K"
+        , "bpm":
+          { "init": 200
+          , "min": 160
+          , "median": 200
+          , "max": 200
+          }
+        , "duration": 164.71860902255636
+        , "file": "ddd_H.bme"
+        }
+      , { "md5": "f81d7549eef70d0da99b12212a011097"
+        , "info":
+          { "title": "Dance Doll Dream"
+          , "artist": "daisan feat. えみゅう。 / zue-row"
+          , "genre": "Waltz"
+          , "subtitles":
+            [ "Normal"
+            ]
+          , "subartists": []
+          , "difficulty": 2
+          , "level": 5
+          }
+        , "noteCount": 599
+        , "scratch": true
+        , "keys": "7K"
+        , "bpm":
+          { "init": 200
+          , "min": 160
+          , "median": 200
+          , "max": 200
+          }
+        , "duration": 164.71860902255636
+        , "file": "ddd_N.bme"
+        }
+      ]
+    , "warnings": []
+    , "id": "[daisan]ddd"
+    , "path": "[daisan]ddd"
+    }
   , { "title": "BY☆MY☆SIDE"
     , "artist": "flicknote"
     , "genre": "Trance Core"
