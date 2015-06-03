@@ -598,6 +598,141 @@
     , "id": "[daisan]ddd"
     , "path": "[daisan]ddd"
     }
+  , { "title": "가짜 / 인형 / 술사 / 이야기"
+    , "artist": "Dr.ReB"
+    , "genre": "a/story/of/the/fake/puppet/master"
+    , "bpm": 186
+    , "artist_url": "https://soundcloud.com/dr-reb"
+    , "song_url": "https://soundcloud.com/dr-reb/pabat2015-astoryofthefakepuppetmaster"
+    , "youtube_url": "https://www.youtube.com/watch?v=qozfi10E14w"
+    , "added": "2015-06-03T00:00:00.000Z"
+    , "readme": "README.md"
+    , "charts":
+      [ { "md5": "a178a4fd81d846cc0850dca2d52d5702"
+        , "info":
+          { "title": "가짜/인형/술사/이야기 (a/story/of/the/fake/puppet/master)"
+          , "artist": "Dr.ReB"
+          , "genre": "NO GENRE"
+          , "subtitles":
+            [ "5Keys Hyper"
+            ]
+          , "subartists": []
+          , "difficulty": 3
+          , "level": 9
+          }
+        , "noteCount": 1042
+        , "scratch": true
+        , "keys": "5K"
+        , "bpm":
+          { "init": 140
+          , "min": 140
+          , "median": 186
+          , "max": 186
+          }
+        , "duration": 181.33064516129033
+        , "file": "fakepuppet-5h.bme"
+        }
+      , { "md5": "0a92e0058e44e33ed837a8e659f6fb60"
+        , "info":
+          { "title": "가짜/인형/술사/이야기 (a/story/of/the/fake/puppet/master)"
+          , "artist": "Dr.ReB"
+          , "genre": "NO GENRE"
+          , "subtitles":
+            [ "5Keys Normal"
+            ]
+          , "subartists": []
+          , "difficulty": 2
+          , "level": 5
+          }
+        , "noteCount": 547
+        , "scratch": true
+        , "keys": "5K"
+        , "bpm":
+          { "init": 140
+          , "min": 140
+          , "median": 186
+          , "max": 186
+          }
+        , "duration": 181.33064516129033
+        , "file": "fakepuppet-5n.bme"
+        }
+      , { "md5": "473e5228e61791f819d05893bc9ead82"
+        , "info":
+          { "title": "가짜/인형/술사/이야기 (a/story/of/the/fake/puppet/master)"
+          , "artist": "Dr.ReB"
+          , "genre": "NO GENRE"
+          , "subtitles":
+            [ "7Keys Another"
+            ]
+          , "subartists": []
+          , "difficulty": 4
+          , "level": 12
+          }
+        , "noteCount": 1837
+        , "scratch": true
+        , "keys": "7K"
+        , "bpm":
+          { "init": 140
+          , "min": 140
+          , "median": 186
+          , "max": 186
+          }
+        , "duration": 181.33064516129033
+        , "file": "fakepuppet-7a.bme"
+        }
+      , { "md5": "da4207bb56fa494aeebd2d8045077524"
+        , "info":
+          { "title": "가짜/인형/술사/이야기 (a/story/of/the/fake/puppet/master)"
+          , "artist": "Dr.ReB"
+          , "genre": "NO GENRE"
+          , "subtitles":
+            [ "7Keys Hyper"
+            ]
+          , "subartists": []
+          , "difficulty": 3
+          , "level": 9
+          }
+        , "noteCount": 1120
+        , "scratch": true
+        , "keys": "7K"
+        , "bpm":
+          { "init": 140
+          , "min": 140
+          , "median": 186
+          , "max": 186
+          }
+        , "duration": 181.33064516129033
+        , "file": "fakepuppet-7h.bme"
+        }
+      , { "md5": "22ba4c94ec0dbf40d32c87660b2eeb37"
+        , "info":
+          { "title": "가짜/인형/술사/이야기 (a/story/of/the/fake/puppet/master)"
+          , "artist": "Dr.ReB"
+          , "genre": "NO GENRE"
+          , "subtitles":
+            [ "7Keys Normal"
+            ]
+          , "subartists": []
+          , "difficulty": 2
+          , "level": 6
+          }
+        , "noteCount": 645
+        , "scratch": true
+        , "keys": "7K"
+        , "bpm":
+          { "init": 140
+          , "min": 140
+          , "median": 186
+          , "max": 186
+          }
+        , "duration": 181.33064516129033
+        , "file": "fakepuppet-7n.bme"
+        }
+      ]
+    , "warnings": []
+    , "id": "[drreb]fakepuppet"
+    , "path": "[drreb]fakepuppet"
+    }
   , { "title": "BY☆MY☆SIDE"
     , "artist": "flicknote"
     , "genre": "Trance Core"
