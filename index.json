@@ -1,5 +1,267 @@
 { "songs":
-  [ { "title": "オリヴィアの幻術"
+  [ { "title": "Anhedonia"
+    , "artist": "Spiritual Core"
+    , "genre": "Spiritual Core"
+    , "bpm": 180
+    , "alias_of": "a_hisa"
+    , "artist_url": "http://hisaweb.6.ql.bz/"
+    , "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=266&event=83"
+    , "youtube_url": "https://www.youtube.com/watch?v=UkbCgtEVe-0"
+    , "added": "2015-06-07T00:00:00.000Z"
+    , "readme": "README.md"
+    , "charts":
+      [ { "md5": "e1362b8c041ca6c872a75e14879ff0eb"
+        , "info":
+          { "title": "Anhedonia"
+          , "artist": "Silent Spica"
+          , "genre": "Spiritual Core"
+          , "subtitles":
+            [ "BEGINNER"
+            ]
+          , "subartists":
+            [ "Obj.Triforce"
+            ]
+          , "difficulty": 1
+          , "level": 1
+          }
+        , "noteCount": 92
+        , "scratch": true
+        , "keys": "7K"
+        , "bpm":
+          { "init": 180
+          , "min": 90
+          , "median": 180
+          , "max": 180
+          }
+        , "duration": 132.1111111111111
+        , "file": "00_anhedonia_7b.bms"
+        }
+      , { "md5": "3bb1901e202f48839d580a9abbc0d768"
+        , "info":
+          { "title": "Anhedonia"
+          , "artist": "Silent Spica"
+          , "genre": "Spiritual Core [NORMAL]"
+          , "subtitles": []
+          , "subartists":
+            [ "obj:kent."
+            ]
+          , "difficulty": 2
+          , "level": 6
+          }
+        , "noteCount": 548
+        , "scratch": true
+        , "keys": "7K"
+        , "bpm":
+          { "init": 180
+          , "min": 90
+          , "median": 180
+          , "max": 180
+          }
+        , "duration": 132.1111111111111
+        , "file": "01_anhedonia_n.bms"
+        }
+      , { "md5": "f8cb9774e2854450237851455d116638"
+        , "info":
+          { "title": "Anhedonia"
+          , "artist": "Silent Spica"
+          , "genre": "Spiritual Core [HYPER]"
+          , "subtitles": []
+          , "subartists":
+            [ "obj:kent."
+            ]
+          , "difficulty": 3
+          , "level": 10
+          }
+        , "noteCount": 788
+        , "scratch": true
+        , "keys": "7K"
+        , "bpm":
+          { "init": 180
+          , "min": 90
+          , "median": 180
+          , "max": 180
+          }
+        , "duration": 132.1111111111111
+        , "file": "02_anhedonia_h.bms"
+        }
+      , { "md5": "2342c3d64ce59ef7e964953c7d3e15f2"
+        , "info":
+          { "title": "Anhedonia"
+          , "artist": "Silent Spica"
+          , "genre": "Spiritual Core [ANOTHER]"
+          , "subtitles": []
+          , "subartists":
+            [ "obj:kent."
+            ]
+          , "difficulty": 4
+          , "level": 11
+          }
+        , "noteCount": 1123
+        , "scratch": true
+        , "keys": "7K"
+        , "bpm":
+          { "init": 180
+          , "min": 90
+          , "median": 180
+          , "max": 180
+          }
+        , "duration": 132.1111111111111
+        , "file": "03_anhedonia_a.bms"
+        }
+      , { "md5": "732ae5c8c501c05dddc4d1b93b7c33c4"
+        , "info":
+          { "title": "Anhedonia"
+          , "artist": "Silent Spica"
+          , "genre": "Spiritual Core"
+          , "subtitles":
+            [ "DP NORMAL"
+            ]
+          , "subartists":
+            [ "Obj:ゆ～兎"
+            ]
+          , "difficulty": 2
+          , "level": 8
+          }
+        , "noteCount": 308
+        , "scratch": true
+        , "keys": "14K"
+        , "bpm":
+          { "init": 180
+          , "min": 90
+          , "median": 180
+          , "max": 180
+          }
+        , "duration": 132.1111111111111
+        , "file": "04_anhedonia_14n_YH.bms"
+        }
+      , { "md5": "190965b1629ceb8f69abc7ee4935ff5c"
+        , "info":
+          { "title": "Anhedonia"
+          , "artist": "Silent Spica obj : Limite"
+          , "genre": "Spiritual Core [Broken Kikai - ReObj]"
+          , "subtitles": []
+          , "subartists": []
+          , "difficulty": 5
+          , "level": 12
+          }
+        , "noteCount": 1500
+        , "scratch": true
+        , "keys": "7K"
+        , "bpm":
+          { "init": 180
+          , "min": 90
+          , "median": 180
+          , "max": 180
+          }
+        , "duration": 132.1111111111111
+        , "file": "04_anhedonia_bk_reobj.bme"
+        }
+      , { "md5": "e6edca5ce4ea9e70c78c758a2b725633"
+        , "info":
+          { "title": "Anhedonia"
+          , "artist": "Silent Spica"
+          , "genre": "Spiritual Core"
+          , "subtitles":
+            [ "DP HYPER"
+            ]
+          , "subartists":
+            [ "Obj:ゆ～兎"
+            ]
+          , "difficulty": 3
+          , "level": 10
+          }
+        , "noteCount": 507
+        , "scratch": true
+        , "keys": "14K"
+        , "bpm":
+          { "init": 180
+          , "min": 90
+          , "median": 180
+          , "max": 180
+          }
+        , "duration": 132.1111111111111
+        , "file": "05_anhedonia_14h_YH.bms"
+        }
+      , { "md5": "02cf0562e3b361e383ca066119008290"
+        , "info":
+          { "title": "Anhedonia"
+          , "artist": "Silent Spica obj:けろりん"
+          , "genre": "Spiritual Core"
+          , "subtitles":
+            [ "DP APPETITE"
+            ]
+          , "subartists": []
+          , "difficulty": 4
+          , "level": 12
+          }
+        , "noteCount": 678
+        , "scratch": true
+        , "keys": "14K"
+        , "bpm":
+          { "init": 180
+          , "min": 180
+          , "median": 180
+          , "max": 180
+          }
+        , "duration": 132.11111111111111
+        , "file": "06_anhedonia_14a_kero.bms"
+        }
+      , { "md5": "4765f6b7b761f41a5bad3b9006fce733"
+        , "info":
+          { "title": "Anhedonia"
+          , "artist": "Silent Spica"
+          , "genre": "Spiritual Core"
+          , "subtitles":
+            [ "DP ANOTHER"
+            ]
+          , "subartists":
+            [ "Obj:ゆ～兎"
+            ]
+          , "difficulty": 4
+          , "level": 12
+          }
+        , "noteCount": 721
+        , "scratch": true
+        , "keys": "14K"
+        , "bpm":
+          { "init": 180
+          , "min": 90
+          , "median": 180
+          , "max": 180
+          }
+        , "duration": 132.1111111111111
+        , "file": "06_anhedonia_14a_YH.bms"
+        }
+      , { "md5": "c9187c4b058634097fbc3e20ee787ef1"
+        , "info":
+          { "title": "Anhedonia"
+          , "artist": "Silent Spica"
+          , "genre": "Spiritual Core"
+          , "subtitles": []
+          , "subartists":
+            [ "obj.XYZ"
+            ]
+          , "difficulty": 5
+          , "level": 12
+          }
+        , "noteCount": 1480
+        , "scratch": true
+        , "keys": "7K"
+        , "bpm":
+          { "init": 180
+          , "min": 90
+          , "median": 180
+          , "max": 180
+          }
+        , "duration": 132.11296420275374
+        , "file": "anhedonia_XYZ.bms"
+        }
+      ]
+    , "warnings": []
+    , "id": "[a_hisa]anhedonia"
+    , "path": "[a_hisa]anhedonia"
+    }
+  , { "title": "オリヴィアの幻術"
     , "artist": "葵"
     , "genre": "Sexy Dance"
     , "bpm": 128
