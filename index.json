@@ -1312,6 +1312,143 @@
     , "id": "[ice]l"
     , "path": "[ice]l"
     }
+  , { "title": "Terpsichore"
+    , "artist": "Jun Kuroda"
+    , "genre": "Artcore"
+    , "bpm": 185
+    , "artist_url": "https://soundcloud.com/jun_kuroda"
+    , "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=101"
+    , "song_url": "https://soundcloud.com/jun_kuroda/12jun-kuroda-terpsichore"
+    , "added": "2015-07-28T00:00:00.000Z"
+    , "readme": "README.md"
+    , "charts":
+      [ { "md5": "8ee27fdf11d23e00a8d51de977068b7e"
+        , "info":
+          { "title": "Terpsichore"
+          , "artist": "Jun Kuroda"
+          , "genre": "Artcore"
+          , "subtitles":
+            [ "Another"
+            ]
+          , "subartists": []
+          , "difficulty": 4
+          , "level": 12
+          }
+        , "noteCount": 1927
+        , "scratch": true
+        , "keys": "7K"
+        , "bpm":
+          { "init": 185
+          , "min": 185
+          , "median": 185
+          , "max": 185
+          }
+        , "duration": 128.43243243243242
+        , "file": "terpsichore_Another.bms"
+        }
+      , { "md5": "33f6d85d134cf7cebd0836a8aca8247f"
+        , "info":
+          { "title": "Terpsichore"
+          , "artist": "Jun Kuroda"
+          , "genre": "Artcore"
+          , "subtitles":
+            [ "Hyper"
+            ]
+          , "subartists": []
+          , "difficulty": 3
+          , "level": 11
+          }
+        , "noteCount": 1249
+        , "scratch": true
+        , "keys": "7K"
+        , "bpm":
+          { "init": 185
+          , "min": 185
+          , "median": 185
+          , "max": 185
+          }
+        , "duration": 129.7297297297297
+        , "file": "terpsichore_Hyper.bms"
+        }
+      , { "md5": "ad94ff1b1f6ca7ccdf699d66d6f76fa8"
+        , "info":
+          { "title": "Terpsichore"
+          , "artist": "Jun Kuroda"
+          , "genre": "Artcore"
+          , "subtitles":
+            [ "Insane"
+            ]
+          , "subartists": []
+          , "difficulty": 5
+          , "level": 12
+          }
+        , "noteCount": 1962
+        , "scratch": true
+        , "keys": "7K"
+        , "bpm":
+          { "init": 185
+          , "min": 185
+          , "median": 185
+          , "max": 185
+          }
+        , "duration": 128.43243243243242
+        , "file": "terpsichore_Insane.bms"
+        }
+      , { "md5": "1983efc9e781daf776f85635fd202b54"
+        , "info":
+          { "title": "Terpsichore"
+          , "artist": "Jun Kuroda"
+          , "genre": "Artcore"
+          , "subtitles":
+            [ "Light"
+            ]
+          , "subartists":
+            [ "obj.flicknote"
+            ]
+          , "difficulty": 1
+          , "level": 3
+          }
+        , "noteCount": 236
+        , "scratch": true
+        , "keys": "7K"
+        , "bpm":
+          { "init": 185
+          , "min": 185
+          , "median": 185
+          , "max": 185
+          }
+        , "duration": 129.7297297297297
+        , "file": "terpsichore_Light.bms"
+        }
+      , { "md5": "9f0baa9137bf71931d9df883479b4dcc"
+        , "info":
+          { "title": "Terpsichore"
+          , "artist": "Jun Kuroda"
+          , "genre": "Artcore"
+          , "subtitles":
+            [ "Normal"
+            ]
+          , "subartists": []
+          , "difficulty": 0
+          , "level": 7
+          }
+        , "noteCount": 503
+        , "scratch": true
+        , "keys": "7K"
+        , "bpm":
+          { "init": 185
+          , "min": 185
+          , "median": 185
+          , "max": 185
+          }
+        , "duration": 129.7297297297297
+        , "file": "terpsichore_Normal.bms"
+        }
+      ]
+    , "warnings": []
+    , "id": "[jun_kuroda]terpsichore"
+    , "path": "[jun_kuroda]terpsichore"
+    }
   , { "title": "Harmony"
     , "artist": "Lime"
     , "genre": "kawaiicore"
