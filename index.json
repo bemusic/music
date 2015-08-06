@@ -1,5 +1,176 @@
 { "songs":
-  [ { "title": "Anhedonia"
+  [ { "title": "Exargon"
+    , "artist": "5argon vs encX"
+    , "genre": "DnB"
+    , "bpm": 170
+    , "artist_url": "https://soundcloud.com/5argon"
+    , "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=31&event=101"
+    , "youtube_url": "https://www.youtube.com/watch?v=Ccw_5c1apao"
+    , "added": "2015-08-06T00:00:00.000Z"
+    , "readme": "README.md"
+    , "charts":
+      [ { "md5": "7e62a5af97f829c014b6432eec3df38f"
+        , "info":
+          { "title": "Exargon"
+          , "artist": "5argon vs encX"
+          , "genre": "DnB"
+          , "subtitles":
+            [ "ANOTHER"
+            ]
+          , "subartists":
+            [ "obj: flicknote / vocal: imTiNEY"
+            ]
+          , "difficulty": 4
+          , "level": 12
+          }
+        , "noteCount": 1623
+        , "scratch": true
+        , "keys": "7K"
+        , "bpm":
+          { "init": 170
+          , "min": 170
+          , "median": 170
+          , "max": 170
+          }
+        , "duration": 165.08823529411768
+        , "file": "exargon_7another.bms"
+        }
+      , { "md5": "978f45dd1f3e37c76cb99ad3a8e75859"
+        , "info":
+          { "title": "Exargon"
+          , "artist": "5argon vs encX"
+          , "genre": "DnB"
+          , "subtitles":
+            [ "BEGINNER"
+            ]
+          , "subartists":
+            [ "obj: flicknote / vocal: imTiNEY"
+            ]
+          , "difficulty": 1
+          , "level": 1
+          }
+        , "noteCount": 226
+        , "scratch": true
+        , "keys": "7K"
+        , "bpm":
+          { "init": 170
+          , "min": 170
+          , "median": 170
+          , "max": 170
+          }
+        , "duration": 165.08823529411768
+        , "file": "exargon_7beginner.bms"
+        }
+      , { "md5": "ecea6e1fb533a06171914bb8e4dbcb84"
+        , "info":
+          { "title": "Exargon"
+          , "artist": "5argon vs encX"
+          , "genre": "DnB"
+          , "subtitles":
+            [ "HYPER"
+            ]
+          , "subartists":
+            [ "obj: flicknote / vocal: imTiNEY"
+            ]
+          , "difficulty": 3
+          , "level": 10
+          }
+        , "noteCount": 1355
+        , "scratch": true
+        , "keys": "7K"
+        , "bpm":
+          { "init": 170
+          , "min": 170
+          , "median": 170
+          , "max": 170
+          }
+        , "duration": 165.08823529411768
+        , "file": "exargon_7hyper.bms"
+        }
+      , { "md5": "74a74f1c00ca457f62f1c2288b7eeb85"
+        , "info":
+          { "title": "Exargon"
+          , "artist": "5argon vs encX"
+          , "genre": "DnB"
+          , "subtitles":
+            [ "FOOMFIRE"
+            ]
+          , "subartists":
+            [ "obj: flicknote / vocal: imTiNEY"
+            ]
+          , "difficulty": 5
+          , "level": 13
+          }
+        , "noteCount": 2834
+        , "scratch": true
+        , "keys": "7K"
+        , "bpm":
+          { "init": 170
+          , "min": 170
+          , "median": 170
+          , "max": 170
+          }
+        , "duration": 165.08823529411768
+        , "file": "exargon_7insane.bms"
+        }
+      , { "md5": "17934aa805e0709874bda1b270b7dfa8"
+        , "info":
+          { "title": "Exargon"
+          , "artist": "5argon vs encX"
+          , "genre": "DnB"
+          , "subtitles":
+            [ "LIGHT"
+            ]
+          , "subartists":
+            [ "obj: flicknote / vocal: imTiNEY"
+            ]
+          , "difficulty": 2
+          , "level": 3
+          }
+        , "noteCount": 433
+        , "scratch": true
+        , "keys": "7K"
+        , "bpm":
+          { "init": 170
+          , "min": 170
+          , "median": 170
+          , "max": 170
+          }
+        , "duration": 165.08823529411768
+        , "file": "exargon_7light.bms"
+        }
+      , { "md5": "26a4f28f0cd91500e85e6afd6124c18a"
+        , "info":
+          { "title": "Exargon"
+          , "artist": "5argon vs encX"
+          , "genre": "DnB"
+          , "subtitles":
+            [ "BEMUSED.NORMAL"
+            ]
+          , "subartists":
+            [ "obj: flicknote / vocal: imTiNEY"
+            ]
+          , "difficulty": 2
+          , "level": 6
+          }
+        , "noteCount": 778
+        , "scratch": true
+        , "keys": "7K"
+        , "bpm":
+          { "init": 170
+          , "min": 170
+          , "median": 170
+          , "max": 170
+          }
+        , "duration": 165.08823529411768
+        , "file": "exargon_7normal.bms"
+        }
+      ]
+    , "warnings": []
+    , "id": "[5argon_encx]exargon"
+    , "path": "[5argon_encx]exargon"
+    }
+  , { "title": "Anhedonia"
     , "artist": "Silent Spica"
     , "genre": "Spiritual Core"
     , "bpm": 180
