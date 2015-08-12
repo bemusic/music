@@ -2069,6 +2069,138 @@
     , "id": "[litmus]scorpiondance"
     , "path": "[litmus]scorpiondance"
     }
+  , { "title": "kindly breeze"
+    , "artist": "mo_no_chrome feat. Salita"
+    , "genre": "House"
+    , "bpm": 128
+    , "artist_url": "https://soundcloud.com/mo_no_chrome"
+    , "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=134&event=96"
+    , "song_url": "https://soundcloud.com/mo_no_chrome/kindly-breeze-featsalita"
+    , "long_url": "https://soundcloud.com/mo_no_chrome/kindly-breeze-long_ver"
+    , "added": "2015-08-12T00:00:00.000Z"
+    , "readme": "README.md"
+    , "charts":
+      [ { "md5": "e4bb8b8c08a4e054390cfc0b58272563"
+        , "info":
+          { "title": "kindly breeze"
+          , "artist": "mo_no_chrome feat.Salita"
+          , "genre": "House"
+          , "subtitles": []
+          , "subartists": []
+          , "difficulty": 0
+          , "level": 10
+          }
+        , "noteCount": 1153
+        , "scratch": true
+        , "keys": "7K"
+        , "bpm":
+          { "init": 128
+          , "min": 128
+          , "median": 128
+          , "max": 128
+          }
+        , "duration": 121.875
+        , "file": "kindly breeze_A.bms"
+        }
+      , { "md5": "f6968b20e15c06d4b76bf91211c008dd"
+        , "info":
+          { "title": "kindly breeze"
+          , "artist": "mo_no_chrome feat.Salita"
+          , "genre": "House"
+          , "subtitles":
+            [ "BEGINNER"
+            ]
+          , "subartists":
+            [ "obj.flicknote"
+            ]
+          , "difficulty": 0
+          , "level": 1
+          }
+        , "noteCount": 76
+        , "scratch": true
+        , "keys": "7K"
+        , "bpm":
+          { "init": 128
+          , "min": 128
+          , "median": 128
+          , "max": 128
+          }
+        , "duration": 121.875
+        , "file": "kindly breeze_B.bms"
+        }
+      , { "md5": "27b11d9858364cbc87459e6099403d6a"
+        , "info":
+          { "title": "kindly breeze"
+          , "artist": "mo_no_chrome feat.Salita / obj:ELIGOS"
+          , "genre": "House"
+          , "subtitles":
+            [ "ELITHER"
+            ]
+          , "subartists": []
+          , "difficulty": 5
+          , "level": 3
+          }
+        , "noteCount": 2000
+        , "scratch": true
+        , "keys": "7K"
+        , "bpm":
+          { "init": 128
+          , "min": 128
+          , "median": 128
+          , "max": 128
+          }
+        , "duration": 121.875
+        , "file": "kindly breeze_E.bms"
+        }
+      , { "md5": "36a7ebaa8dfe07edc07a73e44879c2b9"
+        , "info":
+          { "title": "kindly breeze"
+          , "artist": "mo_no_chrome feat.Salita"
+          , "genre": "House"
+          , "subtitles": []
+          , "subartists": []
+          , "difficulty": 0
+          , "level": 9
+          }
+        , "noteCount": 819
+        , "scratch": true
+        , "keys": "7K"
+        , "bpm":
+          { "init": 128
+          , "min": 128
+          , "median": 128
+          , "max": 128
+          }
+        , "duration": 121.875
+        , "file": "kindly breeze_H.bms"
+        }
+      , { "md5": "a524ce20ebb3082cda5fda77b320c3c2"
+        , "info":
+          { "title": "kindly breeze"
+          , "artist": "mo_no_chrome feat.Salita"
+          , "genre": "House"
+          , "subtitles": []
+          , "subartists": []
+          , "difficulty": 0
+          , "level": 4
+          }
+        , "noteCount": 161
+        , "scratch": true
+        , "keys": "7K"
+        , "bpm":
+          { "init": 128
+          , "min": 128
+          , "median": 128
+          , "max": 128
+          }
+        , "duration": 121.875
+        , "file": "kindly breeze_N.bms"
+        }
+      ]
+    , "warnings": []
+    , "id": "[mo_no_chrome]kindlybreeze"
+    , "path": "[mo_no_chrome]kindlybreeze"
+    }
   , { "title": "Futurity"
     , "artist": "Ryo Nakamura"
     , "genre": "Electro House"
