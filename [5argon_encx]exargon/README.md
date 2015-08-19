@@ -2,6 +2,7 @@
 artist: 5argon vs encX
 artist_url: https://soundcloud.com/5argon
 bms_url: http://manbow.nothing.sh/event/event.cgi?action=More_def&num=31&event=101
+song_url: https://soundcloud.com/5argon/encx-exargon
 youtube_url: https://www.youtube.com/watch?v=Ccw_5c1apao
 added: 2015-08-06
 ---
