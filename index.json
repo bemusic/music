@@ -5,6 +5,7 @@
     , "bpm": 170
     , "artist_url": "https://soundcloud.com/5argon"
     , "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=31&event=101"
+    , "song_url": "https://soundcloud.com/5argon/encx-exargon"
     , "youtube_url": "https://www.youtube.com/watch?v=Ccw_5c1apao"
     , "added": "2015-08-06T00:00:00.000Z"
     , "readme": "README.md"
@@ -3130,6 +3131,94 @@
     , "warnings": []
     , "id": "[snack]dddd"
     , "path": "[snack]dddd"
+    }
+  , { "title": "Upside-down"
+    , "artist": "すてらべえ"
+    , "genre": "Breakcore/Cutbreak"
+    , "bpm": 260
+    , "artist_url": "http://stellabeekun.tumblr.com/"
+    , "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=8&event=101"
+    , "song_url": "https://soundcloud.com/stella_hiragana/bms-upside-down"
+    , "youtube_url": "https://www.youtube.com/watch?v=jw-4QbUTZR8"
+    , "added": "2015-08-19T00:00:00.000Z"
+    , "readme": "README.md"
+    , "charts":
+      [ { "md5": "0727a5a8bdeac2e655dafb7411e60c12"
+        , "info":
+          { "title": "Upside-down"
+          , "artist": "music:すてらべえ/BGA:hopkins"
+          , "genre": "Breakcore/Cutbreak"
+          , "subtitles":
+            [ "ANOTHER"
+            ]
+          , "subartists": []
+          , "difficulty": 0
+          , "level": 8
+          }
+        , "noteCount": 1228
+        , "scratch": true
+        , "keys": "7K"
+        , "bpm":
+          { "init": 260
+          , "min": 260
+          , "median": 260
+          , "max": 260
+          }
+        , "duration": 150.23076923076925
+        , "file": "upside-down a.bms"
+        }
+      , { "md5": "312c0f27913fbdbcf54e1f894d8190a0"
+        , "info":
+          { "title": "Upside-down"
+          , "artist": "music:すてらべえ/BGA:hopkins"
+          , "genre": "Breakcore/Cutbreak"
+          , "subtitles":
+            [ "HARD"
+            ]
+          , "subartists": []
+          , "difficulty": 0
+          , "level": 6
+          }
+        , "noteCount": 1096
+        , "scratch": true
+        , "keys": "7K"
+        , "bpm":
+          { "init": 260
+          , "min": 260
+          , "median": 260
+          , "max": 260
+          }
+        , "duration": 150.23076923076925
+        , "file": "upside-down h.bms"
+        }
+      , { "md5": "066a06fc226da4981550059ecba27809"
+        , "info":
+          { "title": "Upside-down"
+          , "artist": "music:すてらべえ/BGA:hopkins"
+          , "genre": "Breakcore/Cutbreak"
+          , "subtitles":
+            [ "NORMAL"
+            ]
+          , "subartists": []
+          , "difficulty": 0
+          , "level": 5
+          }
+        , "noteCount": 1033
+        , "scratch": true
+        , "keys": "7K"
+        , "bpm":
+          { "init": 260
+          , "min": 260
+          , "median": 260
+          , "max": 260
+          }
+        , "duration": 150.23076923076925
+        , "file": "upside-down n.bms"
+        }
+      ]
+    , "warnings": []
+    , "id": "[stellabee]upsidedown"
+    , "path": "[stellabee]upsidedown"
     }
   , { "title": "AirTrip-SF#2-"
     , "artist": "TiS"
