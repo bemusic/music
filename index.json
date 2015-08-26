@@ -1621,6 +1621,179 @@
     , "id": "[jun_kuroda]terpsichore"
     , "path": "[jun_kuroda]terpsichore"
     }
+  , { "title": "Poison AND÷OR Affection"
+    , "artist": "LeaF"
+    , "genre": "DEPENDANCE MUSIC"
+    , "bpm": 120
+    , "artist_url": "https://soundcloud.com/leaf-7"
+    , "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=149&event=96"
+    , "song_url": "https://soundcloud.com/leaf-7/poison-andor-affection"
+    , "long_url": "https://www.youtube.com/watch?v=zS4yjAcyxuE"
+    , "youtube_url": "https://www.youtube.com/watch?v=3C5zNU2JCdc"
+    , "added": "2015-08-26T00:00:00.000Z"
+    , "readme": "README.md"
+    , "charts":
+      [ { "md5": "3c5e7480d7851c75330e0266cbbf4eed"
+        , "info":
+          { "title": "Poison AND÷OR Affection"
+          , "artist": "LeaF"
+          , "genre": "DEPENDANCE MUSIC"
+          , "subtitles":
+            [ "ANOTHER"
+            ]
+          , "subartists":
+            [ "Movie:Optie"
+            ]
+          , "difficulty": 4
+          , "level": 11
+          }
+        , "noteCount": 1345
+        , "scratch": true
+        , "keys": "7K"
+        , "bpm":
+          { "init": 120
+          , "min": 120
+          , "median": 120
+          , "max": 120
+          }
+        , "duration": 123.25
+        , "file": "_A7.bms"
+        }
+      , { "md5": "97708b12f3694835ab7138bf7ecb2d29"
+        , "info":
+          { "title": "Poison AND÷OR Affection"
+          , "artist": "LeaF / obj. B_K"
+          , "genre": "DEPENDANCE MUSIC"
+          , "subtitles":
+            [ "For Mr.Entertainers"
+            ]
+          , "subartists":
+            [ "Movie:Optie"
+            ]
+          , "difficulty": 5
+          , "level": 0
+          }
+        , "noteCount": 1442
+        , "scratch": true
+        , "keys": "7K"
+        , "bpm":
+          { "init": 120
+          , "min": 120
+          , "median": 120
+          , "max": 240
+          }
+        , "duration": 123.32319418775829
+        , "file": "_FOR_mr.Entertainers.bms"
+        }
+      , { "md5": "6553c248f1e66f31e1186061ef073727"
+        , "info":
+          { "title": "Poison AND÷OR Affection"
+          , "artist": "LeaF"
+          , "genre": "DEPENDANCE MUSIC"
+          , "subtitles":
+            [ "HYPER"
+            ]
+          , "subartists":
+            [ "Movie:Optie"
+            ]
+          , "difficulty": 3
+          , "level": 7
+          }
+        , "noteCount": 836
+        , "scratch": true
+        , "keys": "7K"
+        , "bpm":
+          { "init": 120
+          , "min": 120
+          , "median": 120
+          , "max": 120
+          }
+        , "duration": 123.25
+        , "file": "_H7.bms"
+        }
+      , { "md5": "a30deb71eec250f4815ba13d68327ada"
+        , "info":
+          { "title": "Poison AND÷OR Affection"
+          , "artist": "LeaF"
+          , "genre": "DEPENDANCE MUSIC"
+          , "subtitles":
+            [ "INSANE"
+            ]
+          , "subartists":
+            [ "Movie:Optie"
+            ]
+          , "difficulty": 5
+          , "level": 0
+          }
+        , "noteCount": 1828
+        , "scratch": true
+        , "keys": "7K"
+        , "bpm":
+          { "init": 120
+          , "min": 120
+          , "median": 120
+          , "max": 120
+          }
+        , "duration": 123.25
+        , "file": "_I7.bms"
+        }
+      , { "md5": "5e37e43a1cf5c36af749613146d6ea1a"
+        , "info":
+          { "title": "Poison AND÷OR Affection"
+          , "artist": "LeaF"
+          , "genre": "DEPENDANCE MUSIC"
+          , "subtitles":
+            [ "NORMAL"
+            ]
+          , "subartists":
+            [ "Movie:Optie"
+            ]
+          , "difficulty": 2
+          , "level": 5
+          }
+        , "noteCount": 476
+        , "scratch": true
+        , "keys": "7K"
+        , "bpm":
+          { "init": 120
+          , "min": 120
+          , "median": 120
+          , "max": 120
+          }
+        , "duration": 123.25
+        , "file": "_N7.bms"
+        }
+      , { "md5": "d5ced9cf50d75901db29d0d9c417ba27"
+        , "info":
+          { "title": "Poison AND÷OR Affection"
+          , "artist": "LeaF"
+          , "genre": "DEPENDANCE MUSIC"
+          , "subtitles":
+            [ "PANDORA"
+            ]
+          , "subartists":
+            [ "Movie:Optie obj:BAECON"
+            ]
+          , "difficulty": 5
+          , "level": 21
+          }
+        , "noteCount": 2600
+        , "scratch": true
+        , "keys": "7K"
+        , "bpm":
+          { "init": 120
+          , "min": 120
+          , "median": 120
+          , "max": 120
+          }
+        , "duration": 123.25
+        , "file": "_P7.bms"
+        }
+      ]
+    , "warnings": []
+    , "id": "[leaf]pandora"
+    , "path": "[leaf]pandora"
+    }
   , { "title": "Harmony"
     , "artist": "Lime"
     , "genre": "kawaiicore"
