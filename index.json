@@ -1621,6 +1621,127 @@
     , "id": "[jun_kuroda]terpsichore"
     , "path": "[jun_kuroda]terpsichore"
     }
+  , { "title": "メルヘニア -malchenia-"
+    , "artist": "佐倉翔一"
+    , "genre": "Dark Malchen"
+    , "bpm": 100
+    , "alias_of": "LeaF"
+    , "artist_url": "https://soundcloud.com/leaf-7"
+    , "bms_url": "http://yaruki0.sakura.ne.jp/event/Nmumei/impression.cgi?no=27"
+    , "song_url": "https://soundcloud.com/leaf-7/malchenia"
+    , "youtube_url": "https://www.youtube.com/watch?v=KyzbSpSsNCk"
+    , "added": "2015-09-18T00:00:00.000Z"
+    , "readme": "README.md"
+    , "charts":
+      [ { "md5": "20daf6c408b4dd1d427efea71e194367"
+        , "info":
+          { "title": "メルヘニア -malchenia-"
+          , "artist": "音樂：佐倉翔一　譜面：七海拓哉"
+          , "genre": "Dark Malchen"
+          , "subtitles":
+            [ "ANOTHER"
+            ]
+          , "subartists":
+            [ "映像：山越矜介　原画：春見琴音"
+            ]
+          , "difficulty": 4
+          , "level": 10
+          }
+        , "noteCount": 1136
+        , "bpm":
+          { "init": 100
+          , "min": 100
+          , "median": 100
+          , "max": 100
+          }
+        , "duration": 131.75
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "_another_7key.bms"
+        }
+      , { "md5": "1d6ecb9c8c6f3b7d5894ccdd90140b11"
+        , "info":
+          { "title": "メルヘニア -malchenia-"
+          , "artist": "音樂：佐倉翔一　譜面：七海拓哉"
+          , "genre": "Dark Malchen"
+          , "subtitles":
+            [ "HYPER"
+            ]
+          , "subartists":
+            [ "映像：山越矜介　原画：春見琴音"
+            ]
+          , "difficulty": 3
+          , "level": 6
+          }
+        , "noteCount": 657
+        , "bpm":
+          { "init": 100
+          , "min": 100
+          , "median": 100
+          , "max": 100
+          }
+        , "duration": 131.75
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "_hyper_7key.bms"
+        }
+      , { "md5": "5eac82485a4e1a9d5a8ed50957726194"
+        , "info":
+          { "title": "メルヘニア -malchenia-"
+          , "artist": "音樂：佐倉翔一　譜面：七海拓哉"
+          , "genre": "Dark Malchen"
+          , "subtitles":
+            [ "INSANE"
+            ]
+          , "subartists":
+            [ "映像：山越矜介　原画：春見琴音"
+            ]
+          , "difficulty": 5
+          , "level": 0
+          }
+        , "noteCount": 2015
+        , "bpm":
+          { "init": 100
+          , "min": 100
+          , "median": 100
+          , "max": 100
+          }
+        , "duration": 131.75
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "_insane_7key.bms"
+        }
+      , { "md5": "cac9ea3f52999b74e6f0e0fcabe57be5"
+        , "info":
+          { "title": "メルヘニア -malchenia-"
+          , "artist": "音樂：佐倉翔一　譜面：七海拓哉"
+          , "genre": "Dark Malchen"
+          , "subtitles":
+            [ "NORMAL"
+            ]
+          , "subartists":
+            [ "映像：山越矜介　原画：春見琴音"
+            ]
+          , "difficulty": 2
+          , "level": 3
+          }
+        , "noteCount": 361
+        , "bpm":
+          { "init": 100
+          , "min": 100
+          , "median": 100
+          , "max": 100
+          }
+        , "duration": 131.75
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "_normal_7key.bms"
+        }
+      ]
+    , "warnings": []
+    , "id": "[leaf]malchenia"
+    , "path": "[leaf]malchenia"
+    }
   , { "title": "Poison AND÷OR Affection"
     , "artist": "LeaF"
     , "genre": "DEPENDANCE MUSIC"
