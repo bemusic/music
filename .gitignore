@@ -36,3 +36,5 @@ Icon
 *TempBMS.bms
 *.bmz
 /sox/
+!eyecatch_image.png
+!back_image.png

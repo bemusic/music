@@ -3070,6 +3070,120 @@
     , "id": "[puru]toki"
     , "path": "[puru]toki"
     }
+  , { "title": "The Bass Kills You"
+    , "artist": "q/stol"
+    , "genre": "Rock×Bass Music"
+    , "bpm": 218
+    , "artist_url": "http://qstol.web.fc2.com/"
+    , "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=232&event=104"
+    , "song_url": "https://soundcloud.com/q-stol/bofu2015the-bass-kills-you"
+    , "youtube_url": "https://www.youtube.com/watch?v=GmJzl12hi8s"
+    , "added": "2015-11-25T00:00:00.000Z"
+    , "readme": "README.md"
+    , "charts":
+      [ { "md5": "a36509938aaebdb990990ba841555be3"
+        , "info":
+          { "title": "The Bass Kills You"
+          , "artist": "q/stol"
+          , "genre": "Rock×Bass Music"
+          , "subtitles":
+            [ "ANOTHER"
+            ]
+          , "subartists": []
+          , "difficulty": 4
+          , "level": 11
+          }
+        , "noteCount": 1479
+        , "bpm":
+          { "init": 218
+          , "min": 218
+          , "median": 218
+          , "max": 218
+          }
+        , "duration": 141.19266055045873
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "_utf8_the_bass_kills_you_a.bms"
+        }
+      , { "md5": "bb3ae5b703674d1ed4f23071a05df151"
+        , "info":
+          { "title": "The Bass Kills You"
+          , "artist": "q/stol"
+          , "genre": "Rock×Bass Music"
+          , "subtitles":
+            [ "BEGINNER"
+            ]
+          , "subartists":
+            [ "obj.flicknote"
+            ]
+          , "difficulty": 2
+          , "level": 2
+          }
+        , "noteCount": 198
+        , "bpm":
+          { "init": 218
+          , "min": 218
+          , "median": 218
+          , "max": 218
+          }
+        , "duration": 141.19266055045873
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "_utf8_the_bass_kills_you_b.bms"
+        }
+      , { "md5": "ccc34c499e8a0f846acc866198e049df"
+        , "info":
+          { "title": "The Bass Kills You"
+          , "artist": "q/stol"
+          , "genre": "Rock×Bass Music"
+          , "subtitles":
+            [ "HYPER"
+            ]
+          , "subartists": []
+          , "difficulty": 3
+          , "level": 8
+          }
+        , "noteCount": 803
+        , "bpm":
+          { "init": 218
+          , "min": 218
+          , "median": 218
+          , "max": 218
+          }
+        , "duration": 141.19266055045873
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "_utf8_the_bass_kills_you_h.bms"
+        }
+      , { "md5": "2c239f570f0514bc81028d3070bd2571"
+        , "info":
+          { "title": "The Bass Kills You"
+          , "artist": "q/stol"
+          , "genre": "Rock×Bass Music"
+          , "subtitles":
+            [ "NORMAL"
+            ]
+          , "subartists": []
+          , "difficulty": 2
+          , "level": 4
+          }
+        , "noteCount": 472
+        , "bpm":
+          { "init": 218
+          , "min": 218
+          , "median": 218
+          , "max": 218
+          }
+        , "duration": 141.19266055045873
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "_utf8_the_bass_kills_you_n.bms"
+        }
+      ]
+    , "warnings": []
+    , "id": "[q_stol]the_bass_kills_you"
+    , "path": "[q_stol]the_bass_kills_you"
+    }
   , { "title": "僕たちの旅とエピローグ。"
     , "artist": "ああああ"
     , "genre": "game music"
