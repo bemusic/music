@@ -4,6 +4,7 @@ artist_url: https://soundcloud.com/jun_kuroda
 bms_url: http://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=101
 song_url: https://soundcloud.com/jun_kuroda/12jun-kuroda-terpsichore
 added: 2015-07-28
+wavegain: -13.88 dB
 ---
 
 第12回自称無名BMS作家が物申す！

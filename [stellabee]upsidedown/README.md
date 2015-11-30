@@ -5,6 +5,7 @@ bms_url: http://manbow.nothing.sh/event/event.cgi?action=More_def&num=8&event=10
 song_url: https://soundcloud.com/stella_hiragana/bms-upside-down
 youtube_url: https://www.youtube.com/watch?v=jw-4QbUTZR8
 added: 2015-08-19
+wavegain: -10.93 dB
 ---
 
 初めまして！！BMS初参加のすてらべえです！！！！
@@ -16,4 +17,3 @@ BGAはhopkins氏によるものです！！！この場を借りて感謝をさ�
 
 soundcloudからも視聴できます～！！
 https://soundcloud.com/stella_hiragana/bms-upside-down
-

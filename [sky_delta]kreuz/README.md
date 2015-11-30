@@ -4,6 +4,7 @@ artist_url: https://soundcloud.com/sky_delta
 bms_url: http://manbow.nothing.sh/event/event.cgi?action=More_def&num=89&event=96
 song_url: https://soundcloud.com/sky_delta/kreuz
 youtube_url: https://www.youtube.com/watch?v=lqOmjcuF-No
+wavegain: -12.08 dB
 ---
 
 G2R2014

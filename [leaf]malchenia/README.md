@@ -6,6 +6,7 @@ bms_url: http://yaruki0.sakura.ne.jp/event/Nmumei/impression.cgi?no=27
 song_url: https://soundcloud.com/leaf-7/malchenia
 youtube_url: https://www.youtube.com/watch?v=KyzbSpSsNCk
 added: 2015-09-18
+wavegain: -9.91 dB
 ---
 
 __ジャンル:__
@@ -84,4 +85,3 @@ This is the story of me. who wandered into wonderland...
 
 2015/05/18
 第二回"なんちゃって"無名BMS作家が物申す！
-

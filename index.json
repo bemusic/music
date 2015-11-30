@@ -8,6 +8,7 @@
     , "song_url": "https://soundcloud.com/5argon/encx-exargon"
     , "youtube_url": "https://www.youtube.com/watch?v=Ccw_5c1apao"
     , "added": "2015-08-06T00:00:00.000Z"
+    , "wavegain": "-6.41 dB"
     , "readme": "README.md"
     , "charts":
       [ { "md5": "7e62a5af97f829c014b6432eec3df38f"
@@ -180,6 +181,7 @@
     , "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=266&event=83"
     , "youtube_url": "https://www.youtube.com/watch?v=UkbCgtEVe-0"
     , "added": "2015-06-07T00:00:00.000Z"
+    , "wavegain": "-9.17 dB"
     , "readme": "README.md"
     , "charts":
       [ { "md5": "e1362b8c041ca6c872a75e14879ff0eb"
@@ -442,6 +444,7 @@
     , "song_url": "https://soundcloud.com/aoi-kakuta/mou5p223mclf"
     , "long_url": "https://soundcloud.com/aoi-kakuta/groundbreaking-mix"
     , "youtube_url": "https://www.youtube.com/watch?v=IUAE-nai4Vc"
+    , "wavegain": "+0.01 dB"
     , "readme": "README.md"
     , "charts":
       [ { "md5": "b301d67f3639cd2701c5ef7a25485a34"
@@ -563,6 +566,7 @@
     , "song_url": "https://soundcloud.com/chitose-yuki/blooming"
     , "youtube_url": "https://www.youtube.com/watch?v=hP6ieXJi8YA"
     , "added": "2015-05-21T00:00:00.000Z"
+    , "wavegain": "-15.10 dB"
     , "readme": "README.md"
     , "charts":
       [ { "md5": "baae9b04cdd0898e8a32ff2fe42a9953"
@@ -813,6 +817,7 @@
     , "song_url": "https://soundcloud.com/chitose-yuki/musica-de-aves"
     , "youtube_url": "https://www.youtube.com/watch?v=O-uGBzMv4J4"
     , "added": "2015-05-21T00:00:00.000Z"
+    , "wavegain": "-12.21 dB"
     , "readme": "README.md"
     , "charts":
       [ { "md5": "087c506814ea8970695f146ff42970f6"
@@ -929,6 +934,7 @@
     , "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=30&event=98"
     , "youtube_url": "https://www.youtube.com/watch?v=mBTt_1bD_nY"
     , "added": "2015-05-26T00:00:00.000Z"
+    , "wavegain": "-6.84 dB"
     , "readme": "README.md"
     , "charts":
       [ { "md5": "901c4759a1f4487b320cf974a8ddd8be"
@@ -1040,6 +1046,7 @@
     , "song_url": "https://soundcloud.com/dr-reb/pabat2015-astoryofthefakepuppetmaster"
     , "youtube_url": "https://www.youtube.com/watch?v=qozfi10E14w"
     , "added": "2015-06-03T00:00:00.000Z"
+    , "wavegain": "-9.03 dB"
     , "readme": "README.md"
     , "charts":
       [ { "md5": "a178a4fd81d846cc0850dca2d52d5702"
@@ -1174,6 +1181,7 @@
     , "artist_url": "https://soundcloud.com/o_ooooo"
     , "song_url": "https://soundcloud.com/o_ooooo/by-my-side"
     , "tutorial": 1
+    , "wavegain": "-9.11 dB"
     , "readme": "README.md"
     , "charts":
       [ { "md5": "006d92b8410a8683f347f2bee424d9c1"
@@ -1213,6 +1221,7 @@
     , "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=146&event=83"
     , "song_url": "https://soundcloud.com/iceloki/l-bms-edit"
     , "youtube_url": "https://www.youtube.com/watch?v=ZXy_1LA-RlA"
+    , "wavegain": "-12.62 dB"
     , "readme": "README.md"
     , "charts":
       [ { "md5": "07bde7731a578ffb1af4a27948b002ac"
@@ -1492,6 +1501,7 @@
     , "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=101"
     , "song_url": "https://soundcloud.com/jun_kuroda/12jun-kuroda-terpsichore"
     , "added": "2015-07-28T00:00:00.000Z"
+    , "wavegain": "-13.88 dB"
     , "readme": "README.md"
     , "charts":
       [ { "md5": "8ee27fdf11d23e00a8d51de977068b7e"
@@ -1631,6 +1641,7 @@
     , "song_url": "https://soundcloud.com/leaf-7/malchenia"
     , "youtube_url": "https://www.youtube.com/watch?v=KyzbSpSsNCk"
     , "added": "2015-09-18T00:00:00.000Z"
+    , "wavegain": "-9.91 dB"
     , "readme": "README.md"
     , "charts":
       [ { "md5": "20daf6c408b4dd1d427efea71e194367"
@@ -1752,6 +1763,7 @@
     , "long_url": "https://www.youtube.com/watch?v=zS4yjAcyxuE"
     , "youtube_url": "https://www.youtube.com/watch?v=3C5zNU2JCdc"
     , "added": "2015-08-26T00:00:00.000Z"
+    , "wavegain": "-10.29 dB"
     , "readme": "README.md"
     , "charts":
       [ { "md5": "3c5e7480d7851c75330e0266cbbf4eed"
@@ -1923,6 +1935,7 @@
     , "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=280&event=96"
     , "long_url": "https://soundcloud.com/kanki2/harmonylong-ver"
     , "added": "2015-04-29T00:00:00.000Z"
+    , "wavegain": "-12.58 dB"
     , "readme": "README.md"
     , "charts":
       [ { "md5": "47b7f262e3a39b404a9ec1d30b720737"
@@ -2061,6 +2074,7 @@
     , "song_url": "https://soundcloud.com/ayano-quasar/latch-flip-flop"
     , "added": "2015-04-30T00:00:00.000Z"
     , "youtube_url": "https://www.youtube.com/watch?v=9C7zxHckers"
+    , "wavegain": "-9.60 dB"
     , "readme": "README.md"
     , "charts":
       [ { "md5": "5ee748d06edbe6bbc8a15aa74c1f3ff7"
@@ -2149,6 +2163,7 @@
     , "song_url": "https://soundcloud.com/ayano-quasar/scorpion-dance"
     , "added": "2015-04-30T00:00:00.000Z"
     , "youtube_url": "https://www.youtube.com/watch?v=9C7zxHckers"
+    , "wavegain": "-12.96 dB"
     , "readme": "README.md"
     , "charts":
       [ { "md5": "350371601afb94c70fa9f5ae4f67af29"
@@ -2373,6 +2388,7 @@
     , "song_url": "https://soundcloud.com/mo_no_chrome/kindly-breeze-featsalita"
     , "long_url": "https://soundcloud.com/mo_no_chrome/kindly-breeze-long_ver"
     , "added": "2015-08-12T00:00:00.000Z"
+    , "wavegain": "-7.53 dB"
     , "readme": "README.md"
     , "charts":
       [ { "md5": "e4bb8b8c08a4e054390cfc0b58272563"
@@ -2505,6 +2521,7 @@
     , "song_url": "https://soundcloud.com/pluck_ryo/g2r2014-futurity"
     , "long_url": "https://soundcloud.com/pluck_ryo/groundbreaking-g2r2014-futurity-original-mix"
     , "added": "2015-05-14T00:00:00.000Z"
+    , "wavegain": "-8.37 dB"
     , "readme": "README.md"
     , "charts":
       [ { "md5": "2c3e80ff3d17213ddc8cbe0ee77bde79"
@@ -2594,6 +2611,7 @@
     , "long_url": "https://soundcloud.com/polycube/polycube-agito-long"
     , "added": "2015-05-08T00:00:00.000Z"
     , "youtube_url": "https://www.youtube.com/watch?v=hVFwvPIbR7c"
+    , "wavegain": "-12.26 dB"
     , "readme": "README.md"
     , "charts":
       [ { "md5": "bb32cc9021a4dfb60c76911b977cd856"
@@ -2729,6 +2747,7 @@
     , "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=242&event=96"
     , "song_url": "https://soundcloud.com/puru/homura"
     , "long_url": "https://soundcloud.com/puru/homuraextendmix"
+    , "wavegain": "-6.11 dB"
     , "readme": "README.md"
     , "charts":
       [ { "md5": "53b31ae4944b9d945ea976c0845cf1f8"
@@ -2841,6 +2860,7 @@
     , "song_url": "https://soundcloud.com/puru/bof2012-toki-bms-ver"
     , "long_url": "https://soundcloud.com/pineappledigital/puru-toki-original-mix-preview"
     , "youtube_url": "https://www.youtube.com/watch?v=9hLkkNCL-yM"
+    , "wavegain": "-6.87 dB"
     , "readme": "README.md"
     , "charts":
       [ { "md5": "ea0ab466efb607f7429b31e8a63b09f4"
@@ -3079,6 +3099,7 @@
     , "song_url": "https://soundcloud.com/q-stol/bofu2015the-bass-kills-you"
     , "youtube_url": "https://www.youtube.com/watch?v=GmJzl12hi8s"
     , "added": "2015-11-25T00:00:00.000Z"
+    , "wavegain": "-13.27 dB"
     , "readme": "README.md"
     , "charts":
       [ { "md5": "a36509938aaebdb990990ba841555be3"
@@ -3191,6 +3212,7 @@
     , "artist_url": "https://soundcloud.com/ricora"
     , "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=98&event=96"
     , "song_url": "https://soundcloud.com/ricora/g2rbms"
+    , "wavegain": "-7.86 dB"
     , "readme": "README.md"
     , "charts":
       [ { "md5": "23b6aae160154b4dda9cbca7c4368c1c"
@@ -3278,6 +3300,7 @@
     , "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=89&event=96"
     , "song_url": "https://soundcloud.com/sky_delta/kreuz"
     , "youtube_url": "https://www.youtube.com/watch?v=lqOmjcuF-No"
+    , "wavegain": "-12.08 dB"
     , "readme": "README.md"
     , "charts":
       [ { "md5": "5c29aeca8a8b2f303d6587f50277c939"
@@ -3365,6 +3388,7 @@
     , "bms_url": "http://k-bms.com/party_pabat/party2015.jsp?board_num=15&num=16&order=reg&odtype=a"
     , "song_url": "https://soundcloud.com/korsnack/ddddevelopers"
     , "youtube_url": "https://www.youtube.com/watch?v=ovgcVc5wb9E"
+    , "wavegain": "-10.65 dB"
     , "readme": "README.md"
     , "charts":
       [ { "md5": "1d33d50e2d0a06e85f8eb6b5eab8ea08"
@@ -3549,6 +3573,7 @@
     , "song_url": "https://soundcloud.com/stella_hiragana/bms-upside-down"
     , "youtube_url": "https://www.youtube.com/watch?v=jw-4QbUTZR8"
     , "added": "2015-08-19T00:00:00.000Z"
+    , "wavegain": "-10.93 dB"
     , "readme": "README.md"
     , "charts":
       [ { "md5": "0727a5a8bdeac2e655dafb7411e60c12"
@@ -3635,6 +3660,7 @@
     , "artist_url": "https://soundcloud.com/cineraria_studio"
     , "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=154&event=96"
     , "song_url": "https://soundcloud.com/cineraria_studio/airtrip-bms-mix"
+    , "wavegain": "-11.00 dB"
     , "readme": "README.md"
     , "charts":
       [ { "md5": "f14357d72c2c11081fd45dc00aa4cffa"
@@ -3722,6 +3748,7 @@
     , "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=389&event=88"
     , "long_url": "https://soundcloud.com/mournfinale/void-caelumize"
     , "youtube_url": "https://www.youtube.com/watch?v=93fA-ZVD_i4"
+    , "wavegain": "-10.81 dB"
     , "readme": "README.md"
     , "charts":
       [ { "md5": "dcbbecfead7fd61547c2e37910bf656f"
@@ -3832,6 +3859,7 @@
     , "artist_url": "http://soundcloud.com/7_wtre"
     , "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=32&event=96"
     , "song_url": "https://soundcloud.com/7_wtre/c4tw"
+    , "wavegain": "-12.48 dB"
     , "readme": "README.md"
     , "charts":
       [ { "md5": "feadbe808a674445c759145c039036ce"
@@ -4003,6 +4031,7 @@
     , "bms_url": "http://k-bms.com/party_pabat/party2015.jsp?board_num=15&num=32&order=reg&odtype=a"
     , "song_url": "https://soundcloud.com/7_wtre/mom"
     , "youtube_url": "https://www.youtube.com/watch?v=Ti4oRsUZ8kQ"
+    , "wavegain": "-9.22 dB"
     , "readme": "README.md"
     , "charts":
       [ { "md5": "9ca6f832f8d5b85549c3129e740d1705"
@@ -4115,6 +4144,7 @@
     , "artist_url": "https://soundcloud.com/yukitani"
     , "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=147&event=96"
     , "song_url": "https://soundcloud.com/yukitani/amusing-colorful-pudding"
+    , "wavegain": "-10.94 dB"
     , "readme": "README.md"
     , "charts":
       [ { "md5": "1df76e4d513ea545bf5cadfd52731abe"

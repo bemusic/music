@@ -6,6 +6,7 @@ artist_url: https://soundcloud.com/dr-reb
 song_url: https://soundcloud.com/dr-reb/pabat2015-astoryofthefakepuppetmaster
 youtube_url: https://www.youtube.com/watch?v=qozfi10E14w
 added: 2015-06-03
+wavegain: -9.03 dB
 ---
 
     composed by Dr.ReB

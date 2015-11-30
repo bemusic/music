@@ -1,0 +1,4 @@
+#!/bin/bash -e
+
+bms-renderer "$1" "/tmp/$2.wav"
+wavegain -nc "/tmp/$2.wav"
