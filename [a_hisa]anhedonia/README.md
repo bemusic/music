@@ -5,6 +5,7 @@ artist_url: http://hisaweb.6.ql.bz/
 bms_url: http://manbow.nothing.sh/event/event.cgi?action=More_def&num=266&event=83
 youtube_url: https://www.youtube.com/watch?v=UkbCgtEVe-0
 added: 2015-06-07
+wavegain: -9.17 dB
 ---
 
 Music:a_hisa

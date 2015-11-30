@@ -5,6 +5,7 @@ bms_url: http://manbow.nothing.sh/event/event.cgi?action=More_def&num=260&event=
 song_url: https://soundcloud.com/pluck_ryo/g2r2014-futurity
 long_url: https://soundcloud.com/pluck_ryo/groundbreaking-g2r2014-futurity-original-mix
 added: 2015-05-14
+wavegain: -8.37 dB
 ---
 
     TITLE : Futurity
@@ -12,7 +13,7 @@ added: 2015-05-14
     BPM : 130
     ARTIST : Ryo Nakamura
 
-    DIFFICULTY : 
+    DIFFICULTY :
     NORMAL☆6
     HYPER☆8
     ANOTHER☆10

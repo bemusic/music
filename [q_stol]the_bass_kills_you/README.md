@@ -5,6 +5,7 @@ bms_url: http://manbow.nothing.sh/event/event.cgi?action=More_def&num=232&event=
 song_url: https://soundcloud.com/q-stol/bofu2015the-bass-kills-you
 youtube_url: https://www.youtube.com/watch?v=GmJzl12hi8s
 added: 2015-11-25
+wavegain: -13.27 dB
 ---
 
 The Bass Kills You by q/stol
