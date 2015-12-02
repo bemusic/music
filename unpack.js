@@ -9,10 +9,10 @@ data.files.filter(isOgg).forEach(function(file) {
   var ref = file.ref
   var buffer = getBuffer(data.refs[ref[0]].path).slice(ref[1] + 14, ref[2] + 14)
   fs.writeFileSync(dir + '/' + name, buffer)
-  cp.execFileSync('sox/sox', [
-      dir + '/' + name,
-      dir + '/' + name.replace('.ogg', '.wav')])
-  fs.unlinkSync(dir + '/' + name)
+  // cp.execFileSync('sox/sox', [
+  //     dir + '/' + name,
+  //     dir + '/' + name.replace('.ogg', '.wav')])
+  // fs.unlinkSync(dir + '/' + name)
 })
 
 function isOgg(file) {

@@ -172,6 +172,185 @@
     , "id": "[5argon_encx]exargon"
     , "path": "[5argon_encx]exargon"
     }
+  , { "title": "Maid Battle"
+    , "artist": "5argon"
+    , "genre": "Jazz Fusion"
+    , "bpm": 158
+    , "artist_url": "https://soundcloud.com/5argon"
+    , "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=183&event=104"
+    , "song_url": "https://soundcloud.com/5argon/maid-battle"
+    , "youtube_url": "https://www.youtube.com/watch?v=gtoCNSfJoZc"
+    , "wavegain": "-11.87 dB"
+    , "added": "2015-12-01T00:00:00.000Z"
+    , "readme": "README.md"
+    , "charts":
+      [ { "md5": "fbb8cd9a867cb0e463baff6f2e0547a4"
+        , "info":
+          { "title": "Maid Battle"
+          , "artist": "5argon"
+          , "genre": "Jazz Fusion"
+          , "subtitles":
+            [ "ANOTHER"
+            ]
+          , "subartists":
+            [ "BGI: Kikansha"
+            , "obj: DJPop"
+            ]
+          , "difficulty": 4
+          , "level": 12
+          }
+        , "noteCount": 1415
+        , "bpm":
+          { "init": 158
+          , "min": 146
+          , "median": 158
+          , "max": 158
+          }
+        , "duration": 137.13499219698284
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "_MaidBattle [ANOTHER].bms"
+        }
+      , { "md5": "9cbb0b20d30e6788ed0948cd324d1eef"
+        , "info":
+          { "title": "Maid Battle"
+          , "artist": "5argon"
+          , "genre": "Jazz Fusion"
+          , "subtitles":
+            [ "BEGINNER"
+            ]
+          , "subartists":
+            [ "BGI: Kikansha"
+            , "obj: flicknote"
+            ]
+          , "difficulty": 1
+          , "level": 1
+          }
+        , "noteCount": 106
+        , "bpm":
+          { "init": 146
+          , "min": 146
+          , "median": 158
+          , "max": 158
+          }
+        , "duration": 137.1662042656494
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "_MaidBattle [BEGINNER].bms"
+        }
+      , { "md5": "60f727623641b4104107a1a294572f2b"
+        , "info":
+          { "title": "Maid Battle"
+          , "artist": "5argon"
+          , "genre": "Jazz Fusion"
+          , "subtitles":
+            [ "HYPER"
+            ]
+          , "subartists":
+            [ "BGI: Kikansha"
+            , "obj: flicknote"
+            ]
+          , "difficulty": 3
+          , "level": 9
+          }
+        , "noteCount": 1003
+        , "bpm":
+          { "init": 158
+          , "min": 146
+          , "median": 158
+          , "max": 158
+          }
+        , "duration": 137.13499219698284
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "_MaidBattle [HYPER].bms"
+        }
+      , { "md5": "146364bf78696419ccb78b5815a6710a"
+        , "info":
+          { "title": "Maid Battle"
+          , "artist": "5argon"
+          , "genre": "Jazz Fusion"
+          , "subtitles":
+            [ "LIGHT"
+            ]
+          , "subartists":
+            [ "BGI: Kikansha"
+            , "obj: flicknote"
+            ]
+          , "difficulty": 1
+          , "level": 4
+          }
+        , "noteCount": 349
+        , "bpm":
+          { "init": 146
+          , "min": 146
+          , "median": 158
+          , "max": 158
+          }
+        , "duration": 137.1662042656494
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "_MaidBattle [LIGHT].bms"
+        }
+      , { "md5": "49ad0e79d8c7261a0234d4697799de3d"
+        , "info":
+          { "title": "Maid Battle"
+          , "artist": "5argon"
+          , "genre": "Jazz Fusion"
+          , "subtitles":
+            [ "NORMAL"
+            ]
+          , "subartists":
+            [ "BGI: Kikansha"
+            , "obj: flicknote"
+            ]
+          , "difficulty": 2
+          , "level": 7
+          }
+        , "noteCount": 654
+        , "bpm":
+          { "init": 146
+          , "min": 146
+          , "median": 158
+          , "max": 158
+          }
+        , "duration": 137.1662042656494
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "_MaidBattle [NORMAL].bms"
+        }
+      , { "md5": "4d9519f76991bc8be0e5aa96a4095900"
+        , "info":
+          { "title": "Maid Battle"
+          , "artist": "5argon"
+          , "genre": "Jazz Fusion"
+          , "subtitles":
+            [ "RANDOMIZER"
+            ]
+          , "subartists":
+            [ "BGI: Kikansha"
+            , "obj: flicknote"
+            ]
+          , "difficulty": 5
+          , "level": 8
+          }
+        , "noteCount": 908
+        , "bpm":
+          { "init": 146
+          , "min": 146
+          , "median": 158
+          , "max": 158
+          }
+        , "duration": 137.1662042656494
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "_MaidBattle [RANDOMIZER].bms"
+        }
+      ]
+    , "warnings": []
+    , "id": "[5argon]maidbattle"
+    , "path": "[5argon]maidbattle"
+    }
   , { "title": "Anhedonia"
     , "artist": "Silent Spica"
     , "genre": "Spiritual Core"
