@@ -6,7 +6,7 @@ song_url: https://soundcloud.com/polycube/agito
 long_url: https://soundcloud.com/polycube/polycube-agito-long
 added: 2015-05-08
 youtube_url: https://www.youtube.com/watch?v=hVFwvPIbR7c
-wavegain: -12.26 dB
+replaygain: -12.26 dB
 ---
 
     **

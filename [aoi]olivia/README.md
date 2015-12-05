@@ -5,5 +5,5 @@ bms_url: http://manbow.nothing.sh/event/event.cgi?action=More_def&num=131&event=
 song_url: https://soundcloud.com/aoi-kakuta/mou5p223mclf
 long_url: https://soundcloud.com/aoi-kakuta/groundbreaking-mix
 youtube_url: https://www.youtube.com/watch?v=IUAE-nai4Vc
-wavegain: +0.01 dB
+replaygain: +0.01 dB
 ---

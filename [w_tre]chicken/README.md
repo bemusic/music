@@ -3,7 +3,7 @@ artist: w_tre
 artist_url: http://soundcloud.com/7_wtre
 bms_url: http://manbow.nothing.sh/event/event.cgi?action=More_def&num=32&event=96
 song_url: https://soundcloud.com/7_wtre/c4tw
-wavegain: -12.48 dB
+replaygain: -12.48 dB
 ---
 
 \<CHICKEN for the WIN\> for G2R2014.

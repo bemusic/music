@@ -6,7 +6,7 @@ song_url: https://soundcloud.com/leaf-7/poison-andor-affection
 long_url: https://www.youtube.com/watch?v=zS4yjAcyxuE
 youtube_url: https://www.youtube.com/watch?v=3C5zNU2JCdc
 added: 2015-08-26
-wavegain: -10.29 dB
+replaygain: -10.29 dB
 ---
 
 |            |                          |

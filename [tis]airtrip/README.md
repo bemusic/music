@@ -3,7 +3,7 @@ artist: TiS
 artist_url: https://soundcloud.com/cineraria_studio
 bms_url: http://manbow.nothing.sh/event/event.cgi?action=More_def&num=154&event=96
 song_url: https://soundcloud.com/cineraria_studio/airtrip-bms-mix
-wavegain: -11.00 dB
+replaygain: -11.00 dB
 ---
 
 Progressive Fusion / AirTrip-SF#2-

@@ -6,7 +6,7 @@ bms_url: http://yaruki0.sakura.ne.jp/event/Nmumei/impression.cgi?no=27
 song_url: https://soundcloud.com/leaf-7/malchenia
 youtube_url: https://www.youtube.com/watch?v=KyzbSpSsNCk
 added: 2015-09-18
-wavegain: -9.91 dB
+replaygain: -9.91 dB
 ---
 
 __ジャンル:__

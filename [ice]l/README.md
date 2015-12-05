@@ -4,7 +4,7 @@ artist_url: https://soundcloud.com/iceloki
 bms_url: http://manbow.nothing.sh/event/event.cgi?action=More_def&num=146&event=83
 song_url: https://soundcloud.com/iceloki/l-bms-edit
 youtube_url: https://www.youtube.com/watch?v=ZXy_1LA-RlA
-wavegain: -12.62 dB
+replaygain: -12.62 dB
 ---
 
 【基本データ】

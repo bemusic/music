@@ -4,7 +4,7 @@ artist_url: https://soundcloud.com/5argon
 bms_url: http://manbow.nothing.sh/event/event.cgi?action=More_def&num=183&event=104
 song_url: https://soundcloud.com/5argon/maid-battle
 youtube_url: https://www.youtube.com/watch?v=gtoCNSfJoZc
-wavegain: -11.87 dB
+replaygain: -11.87 dB
 added: 2015-12-01
 ---
 

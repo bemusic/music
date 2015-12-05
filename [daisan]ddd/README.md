@@ -5,7 +5,7 @@ artist_url: http://clockxellox.sakura.ne.jp/
 bms_url: http://manbow.nothing.sh/event/event.cgi?action=More_def&num=30&event=98
 youtube_url: https://www.youtube.com/watch?v=mBTt_1bD_nY
 added: 2015-05-26
-wavegain: -6.84 dB
+replaygain: -6.84 dB
 ---
 
     Music:Dance Doll Dream

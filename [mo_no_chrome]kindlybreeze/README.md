@@ -5,7 +5,7 @@ bms_url: http://manbow.nothing.sh/event/event.cgi?action=More_def&num=134&event=
 song_url: https://soundcloud.com/mo_no_chrome/kindly-breeze-featsalita
 long_url: https://soundcloud.com/mo_no_chrome/kindly-breeze-long_ver
 added: 2015-08-12
-wavegain: -7.53 dB
+replaygain: -7.53 dB
 ---
 
 曲名:kindly breeze  
