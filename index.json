@@ -3269,6 +3269,210 @@
     , "id": "[puru]toki"
     , "path": "[puru]toki"
     }
+  , { "title": "LOVE THIS MOMENT"
+    , "artist": "q/stol"
+    , "genre": "Glitch Hop×electronica"
+    , "bpm": 114
+    , "artist_url": "http://qstol.web.fc2.com/"
+    , "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=202&event=104"
+    , "song_url": "https://soundcloud.com/q-stol/bofu2015love-this-moment"
+    , "youtube_url": "https://www.youtube.com/watch?v=EU-YFSJCOH0"
+    , "wavegain": "-10.96 dB"
+    , "added": "2015-12-09T00:00:00.000Z"
+    , "readme": "README.md"
+    , "charts":
+      [ { "md5": "8263ea0c95383b9056b8a52d386ffdea"
+        , "info":
+          { "title": "LOVE THIS MOMENT"
+          , "artist": "q/stol"
+          , "genre": "Glitch Hop×electronica"
+          , "subtitles":
+            [ "ANOTHER"
+            ]
+          , "subartists": []
+          , "difficulty": 0
+          , "level": 11
+          }
+        , "noteCount": 1219
+        , "bpm":
+          { "init": 114
+          , "min": 114
+          , "median": 114
+          , "max": 114
+          }
+        , "duration": 132.82894736842107
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "_utf8_love_this_moment_a.bme"
+        }
+      , { "md5": "5ef7e7173ffe037852f459b949f3e8b9"
+        , "info":
+          { "title": "LOVE THIS MOMENT"
+          , "artist": "q/stol"
+          , "genre": "Glitch Hop×electronica"
+          , "subtitles":
+            [ "HYPER"
+            ]
+          , "subartists": []
+          , "difficulty": 0
+          , "level": 8
+          }
+        , "noteCount": 744
+        , "bpm":
+          { "init": 114
+          , "min": 114
+          , "median": 114
+          , "max": 114
+          }
+        , "duration": 132.82894736842107
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "_utf8_love_this_moment_h.bme"
+        }
+      , { "md5": "e2ac74df5afb70ac5cdc39fd2fb4602c"
+        , "info":
+          { "title": "LOVE THIS MOMENT"
+          , "artist": "q/stol"
+          , "genre": "Glitch Hop×electronica"
+          , "subtitles":
+            [ "NORMAL"
+            ]
+          , "subartists": []
+          , "difficulty": 0
+          , "level": 4
+          }
+        , "noteCount": 392
+        , "bpm":
+          { "init": 114
+          , "min": 114
+          , "median": 114
+          , "max": 114
+          }
+        , "duration": 132.82894736842107
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "_utf8_love_this_moment_n.bme"
+        }
+      ]
+    , "warnings": []
+    , "id": "[q_stol]love_this_moment"
+    , "path": "[q_stol]love_this_moment"
+    }
+  , { "title": "OUT OF THE DREAM"
+    , "artist": "q/stol"
+    , "genre": "Drill'n'Bass×Schmaltz"
+    , "bpm": 188
+    , "artist_url": "http://qstol.web.fc2.com/"
+    , "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=236&event=104"
+    , "song_url": "https://soundcloud.com/q-stol/bofu2015out-of-the-dream"
+    , "youtube_url": "https://www.youtube.com/watch?v=wbThGxfnuDg"
+    , "wavegain": "-12.45 dB"
+    , "added": "2015-12-09T00:00:00.000Z"
+    , "readme": "README.md"
+    , "charts":
+      [ { "md5": "8a7a65823e0bc7ab263c2cbcbb8f86d5"
+        , "info":
+          { "title": "OUT OF THE DREAM"
+          , "artist": "q/stol"
+          , "genre": "Drill'n'Bass×Schmaltz"
+          , "subtitles":
+            [ "ANOTHER"
+            ]
+          , "subartists": []
+          , "difficulty": 4
+          , "level": 12
+          }
+        , "noteCount": 1595
+        , "bpm":
+          { "init": 106
+          , "min": 106
+          , "median": 188
+          , "max": 188
+          }
+        , "duration": 153.46640494466396
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "_utf8_out_of_the_dream_a.bms"
+        }
+      , { "md5": "23b66b3832b12b9401631089661c30fd"
+        , "info":
+          { "title": "OUT OF THE DREAM"
+          , "artist": "q/stol"
+          , "genre": "Drill'n'Bass×Schmaltz"
+          , "subtitles":
+            [ "BEGINNER"
+            ]
+          , "subartists":
+            [ "obj.flicknote"
+            ]
+          , "difficulty": 2
+          , "level": 2
+          }
+        , "noteCount": 178
+        , "bpm":
+          { "init": 106
+          , "min": 106
+          , "median": 188
+          , "max": 188
+          }
+        , "duration": 153.46640494466396
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "_utf8_out_of_the_dream_b.bms"
+        }
+      , { "md5": "69d82d6672e7b9ee3aed60b011b62628"
+        , "info":
+          { "title": "OUT OF THE DREAM"
+          , "artist": "q/stol"
+          , "genre": "Drill'n'Bass×Schmaltz"
+          , "subtitles":
+            [ "HYPER"
+            ]
+          , "subartists": []
+          , "difficulty": 3
+          , "level": 9
+          }
+        , "noteCount": 951
+        , "bpm":
+          { "init": 106
+          , "min": 106
+          , "median": 188
+          , "max": 188
+          }
+        , "duration": 153.46640494466396
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "_utf8_out_of_the_dream_h.bms"
+        }
+      , { "md5": "f8e7a6ff760d683f9a95dfb9c78d4567"
+        , "info":
+          { "title": "OUT OF THE DREAM"
+          , "artist": "q/stol"
+          , "genre": "Drill'n'Bass×Schmaltz"
+          , "subtitles":
+            [ "NORMAL"
+            ]
+          , "subartists": []
+          , "difficulty": 2
+          , "level": 5
+          }
+        , "noteCount": 378
+        , "bpm":
+          { "init": 106
+          , "min": 106
+          , "median": 188
+          , "max": 188
+          }
+        , "duration": 153.46640494466396
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "_utf8_out_of_the_dream_n.bms"
+        }
+      ]
+    , "warnings": []
+    , "id": "[q_stol]out_of_the_dream"
+    , "path": "[q_stol]out_of_the_dream"
+    }
   , { "title": "The Bass Kills You"
     , "artist": "q/stol"
     , "genre": "Rock×Bass Music"
