@@ -1392,6 +1392,95 @@
     , "id": "[flicknote]bymyside"
     , "path": "[flicknote]bymyside"
     }
+  , { "title": "Only Love (Remix)"
+    , "artist": "Shannon Hurley remixed by flicknote"
+    , "genre": "Euphoric Trance"
+    , "bpm": 125
+    , "alias_of": "flicknote"
+    , "artist_url": "https://soundcloud.com/o_ooooo"
+    , "song_url": "https://soundcloud.com/o_ooooo/only-love"
+    , "youtube_url": "https://www.youtube.com/watch?v=KUoi1Hp-bzM"
+    , "wavegain": "-12.27 dB"
+    , "added": "2015-12-23T00:00:00.000Z"
+    , "readme": "README.md"
+    , "charts":
+      [ { "md5": "72072a8d04eec7dd54f8b4b6ae75c422"
+        , "info":
+          { "title": "Only Love (Remix)"
+          , "artist": "Shannon Hurley remixed by flicknote"
+          , "genre": "Euphoric Trance"
+          , "subtitles":
+            [ "BEGINNER"
+            ]
+          , "subartists": []
+          , "difficulty": 0
+          , "level": 1
+          }
+        , "noteCount": 67
+        , "bpm":
+          { "init": 125
+          , "min": 125
+          , "median": 125
+          , "max": 125
+          }
+        , "duration": 120.96
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "onlylove_remix_beginner.bmson"
+        }
+      , { "md5": "618611e7a25f4e6c47a5010b0af91e3b"
+        , "info":
+          { "title": "Only Love (Remix)"
+          , "artist": "Shannon Hurley remixed by flicknote"
+          , "genre": "Euphoric Trance"
+          , "subtitles":
+            [ "HYPER"
+            ]
+          , "subartists": []
+          , "difficulty": 0
+          , "level": 7
+          }
+        , "noteCount": 838
+        , "bpm":
+          { "init": 125
+          , "min": 125
+          , "median": 125
+          , "max": 125
+          }
+        , "duration": 120.96
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "onlylove_remix_hyper.bmson"
+        }
+      , { "md5": "b57dd99586ceb13e9932dd189e4349d6"
+        , "info":
+          { "title": "Only Love (Remix)"
+          , "artist": "Shannon Hurley remixed by flicknote"
+          , "genre": "Euphoric Trance"
+          , "subtitles":
+            [ "NORMAL"
+            ]
+          , "subartists": []
+          , "difficulty": 0
+          , "level": 4
+          }
+        , "noteCount": 405
+        , "bpm":
+          { "init": 125
+          , "min": 125
+          , "median": 125
+          , "max": 125
+          }
+        , "duration": 120.96
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "onlylove_remix_normal.bmson"
+        }
+      ]
+    , "warnings": []
+    , "id": "[flicknote]onlylove_remix"
+    , "path": "[flicknote]onlylove_remix"
+    }
   , { "title": "L"
     , "artist": "Ice"
     , "genre": "RENAISSANCE PRAYER"
