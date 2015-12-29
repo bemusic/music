@@ -1400,7 +1400,7 @@
     , "artist_url": "https://soundcloud.com/o_ooooo"
     , "song_url": "https://soundcloud.com/o_ooooo/only-love"
     , "youtube_url": "https://www.youtube.com/watch?v=KUoi1Hp-bzM"
-    , "wavegain": "-12.27 dB"
+    , "replaygain": "-12.27 dB"
     , "added": "2015-12-23T00:00:00.000Z"
     , "readme": "README.md"
     , "charts":
@@ -3007,6 +3007,145 @@
     , "id": "[polycube]agito"
     , "path": "[polycube]agito"
     }
+  , { "title": "LASTMORN"
+    , "artist": "polycube"
+    , "genre": "FARVEL"
+    , "bpm": 146
+    , "artist_url": "https://soundcloud.com/polycube"
+    , "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=188&event=104"
+    , "song_url": "https://soundcloud.com/polycube/polycube-lastmorn"
+    , "youtube_url": "https://www.youtube.com/watch?v=lQKFK-rqF4o"
+    , "replaygain": "-12.15 dB"
+    , "added": "2015-12-30T00:00:00.000Z"
+    , "readme": "README.md"
+    , "charts":
+      [ { "md5": "3cf15c75d18235e45f5e969cdc496b65"
+        , "info":
+          { "title": "LASTMORN"
+          , "artist": "polycube / 140"
+          , "genre": "FARVEL"
+          , "subtitles":
+            [ "[L]"
+            ]
+          , "subartists":
+            [ "obj.flicknote"
+            ]
+          , "difficulty": 2
+          , "level": 3
+          }
+        , "noteCount": 197
+        , "bpm":
+          { "init": 146
+          , "min": 146
+          , "median": 146
+          , "max": 146
+          }
+        , "duration": 136.84931506849315
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "00.bms"
+        }
+      , { "md5": "72eca5de62a5ffcf16b13b53f9df4e61"
+        , "info":
+          { "title": "LASTMORN"
+          , "artist": "polycube / 140"
+          , "genre": "FARVEL"
+          , "subtitles":
+            [ "[N]"
+            ]
+          , "subartists": []
+          , "difficulty": 2
+          , "level": 6
+          }
+        , "noteCount": 377
+        , "bpm":
+          { "init": 146
+          , "min": 146
+          , "median": 146
+          , "max": 146
+          }
+        , "duration": 136.84931506849315
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "01.bme"
+        }
+      , { "md5": "9dbf8033bfb46d914beb21eb7b65a19c"
+        , "info":
+          { "title": "LASTMORN"
+          , "artist": "polycube / 140"
+          , "genre": "FARVEL"
+          , "subtitles":
+            [ "[H]"
+            ]
+          , "subartists": []
+          , "difficulty": 3
+          , "level": 9
+          }
+        , "noteCount": 608
+        , "bpm":
+          { "init": 146
+          , "min": 146
+          , "median": 146
+          , "max": 146
+          }
+        , "duration": 136.84931506849315
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "02.bme"
+        }
+      , { "md5": "0baa477a3ff3e483e05cf52e9012f340"
+        , "info":
+          { "title": "LASTMORN"
+          , "artist": "polycube / 140"
+          , "genre": "FARVEL"
+          , "subtitles":
+            [ "[A]"
+            ]
+          , "subartists": []
+          , "difficulty": 0
+          , "level": 11
+          }
+        , "noteCount": 768
+        , "bpm":
+          { "init": 146
+          , "min": 146
+          , "median": 146
+          , "max": 146
+          }
+        , "duration": 136.84931506849315
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "03.bme"
+        }
+      , { "md5": "a22f9f09a63f781ad674b9799a79dd77"
+        , "info":
+          { "title": "LASTMORN"
+          , "artist": "polycube / 140"
+          , "genre": "FARVEL"
+          , "subtitles":
+            [ "[I]"
+            ]
+          , "subartists": []
+          , "difficulty": 5
+          , "level": 12
+          }
+        , "noteCount": 970
+        , "bpm":
+          { "init": 146
+          , "min": 146
+          , "median": 146
+          , "max": 146
+          }
+        , "duration": 136.84931506849315
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "04.bme"
+        }
+      ]
+    , "warnings": []
+    , "id": "[polycube]lastmorn"
+    , "path": "[polycube]lastmorn"
+    }
   , { "title": "Homura"
     , "artist": "puru"
     , "genre": "Future Bass"
@@ -3366,7 +3505,7 @@
     , "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=202&event=104"
     , "song_url": "https://soundcloud.com/q-stol/bofu2015love-this-moment"
     , "youtube_url": "https://www.youtube.com/watch?v=EU-YFSJCOH0"
-    , "wavegain": "-10.96 dB"
+    , "replaygain": "-10.96 dB"
     , "added": "2015-12-09T00:00:00.000Z"
     , "readme": "README.md"
     , "charts":
@@ -3455,7 +3594,7 @@
     , "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=236&event=104"
     , "song_url": "https://soundcloud.com/q-stol/bofu2015out-of-the-dream"
     , "youtube_url": "https://www.youtube.com/watch?v=wbThGxfnuDg"
-    , "wavegain": "-12.45 dB"
+    , "replaygain": "-12.45 dB"
     , "added": "2015-12-09T00:00:00.000Z"
     , "readme": "README.md"
     , "charts":

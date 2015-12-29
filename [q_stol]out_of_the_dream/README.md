@@ -4,7 +4,7 @@ artist_url: http://qstol.web.fc2.com/
 bms_url: http://manbow.nothing.sh/event/event.cgi?action=More_def&num=236&event=104
 song_url: https://soundcloud.com/q-stol/bofu2015out-of-the-dream
 youtube_url: https://www.youtube.com/watch?v=wbThGxfnuDg
-wavegain: -12.45 dB
+replaygain: -12.45 dB
 added: 2015-12-09
 ---
 

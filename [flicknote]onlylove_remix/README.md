@@ -3,7 +3,7 @@ alias_of: flicknote
 artist_url: https://soundcloud.com/o_ooooo
 song_url: https://soundcloud.com/o_ooooo/only-love
 youtube_url: https://www.youtube.com/watch?v=KUoi1Hp-bzM
-wavegain: -12.27 dB
+replaygain: -12.27 dB
 added: 2015-12-23
 ---
 

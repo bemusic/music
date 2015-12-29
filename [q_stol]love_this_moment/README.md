@@ -4,7 +4,7 @@ artist_url: http://qstol.web.fc2.com/
 bms_url: http://manbow.nothing.sh/event/event.cgi?action=More_def&num=202&event=104
 song_url: https://soundcloud.com/q-stol/bofu2015love-this-moment
 youtube_url: https://www.youtube.com/watch?v=EU-YFSJCOH0
-wavegain: -10.96 dB
+replaygain: -10.96 dB
 added: 2015-12-09
 ---
 
