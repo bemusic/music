@@ -2333,6 +2333,167 @@
     , "id": "[lime]harmony"
     , "path": "[lime]harmony"
     }
+  , { "title": "All is fair in Rage"
+    , "artist": "litmus*"
+    , "genre": "Moombahcore"
+    , "bpm": 118
+    , "artist_url": "https://soundcloud.com/litmus_star"
+    , "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=23&event=104"
+    , "song_url": "https://soundcloud.com/litmus_star/bofu2015-all-is-fair-in-rage"
+    , "youtube_url": "https://www.youtube.com/watch?v=8J8ufaISZrQ"
+    , "replaygain": "-10.82 dB"
+    , "added": "2016-01-06T00:00:00.000Z"
+    , "readme": "README.md"
+    , "charts":
+      [ { "md5": "e2f2ac0becd92d7e0c0f32dc1a183b08"
+        , "info":
+          { "title": "All is fair in Rage"
+          , "artist": "litmus* / Symphonian"
+          , "genre": "Moombahcore"
+          , "subtitles":
+            [ "DP Another"
+            ]
+          , "subartists": []
+          , "difficulty": 4
+          , "level": 11
+          }
+        , "noteCount": 714
+        , "bpm":
+          { "init": 118
+          , "min": 118
+          , "median": 118
+          , "max": 118
+          }
+        , "duration": 149.74576271186442
+        , "scratch": true
+        , "keys": "14K"
+        , "file": "litmus_allisfair_14a.bme"
+        }
+      , { "md5": "c709d406db225fbe90c8d5f4ddc841e0"
+        , "info":
+          { "title": "All is fair in Rage"
+          , "artist": "litmus* / Symphonian"
+          , "genre": "Moombahcore"
+          , "subtitles":
+            [ "DP Hyper"
+            ]
+          , "subartists": []
+          , "difficulty": 3
+          , "level": 9
+          }
+        , "noteCount": 543
+        , "bpm":
+          { "init": 118
+          , "min": 118
+          , "median": 118
+          , "max": 118
+          }
+        , "duration": 149.74576271186442
+        , "scratch": true
+        , "keys": "14K"
+        , "file": "litmus_allisfair_14h.bme"
+        }
+      , { "md5": "891fd4a5c19cf41e1f0f87082a184ab0"
+        , "info":
+          { "title": "All is fair in Rage"
+          , "artist": "litmus* / Symphonian"
+          , "genre": "Moombahcore"
+          , "subtitles":
+            [ "DP Normal"
+            ]
+          , "subartists": []
+          , "difficulty": 2
+          , "level": 3
+          }
+        , "noteCount": 152
+        , "bpm":
+          { "init": 118
+          , "min": 118
+          , "median": 118
+          , "max": 118
+          }
+        , "duration": 149.74576271186442
+        , "scratch": true
+        , "keys": "14K"
+        , "file": "litmus_allisfair_14n.bme"
+        }
+      , { "md5": "0fd57c10d093b4e4210deeb7b91afc01"
+        , "info":
+          { "title": "All is fair in Rage"
+          , "artist": "litmus*"
+          , "genre": "Moombahcore"
+          , "subtitles":
+            [ "SP Another"
+            ]
+          , "subartists": []
+          , "difficulty": 4
+          , "level": 11
+          }
+        , "noteCount": 1453
+        , "bpm":
+          { "init": 118
+          , "min": 118
+          , "median": 118
+          , "max": 118
+          }
+        , "duration": 149.74576271186442
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "litmus_allisfair_7a.bme"
+        }
+      , { "md5": "5e72be4ac64c0536a7e07ff6e133cdbd"
+        , "info":
+          { "title": "All is fair in Rage"
+          , "artist": "litmus*"
+          , "genre": "Moombahcore"
+          , "subtitles":
+            [ "SP Hyper"
+            ]
+          , "subartists": []
+          , "difficulty": 3
+          , "level": 9
+          }
+        , "noteCount": 950
+        , "bpm":
+          { "init": 118
+          , "min": 118
+          , "median": 118
+          , "max": 118
+          }
+        , "duration": 149.74576271186442
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "litmus_allisfair_7h.bme"
+        }
+      , { "md5": "7c4c084c0a5bceea7253bbde5bb6c054"
+        , "info":
+          { "title": "All is fair in Rage"
+          , "artist": "litmus*"
+          , "genre": "Moombahcore"
+          , "subtitles":
+            [ "SP Normal"
+            ]
+          , "subartists": []
+          , "difficulty": 2
+          , "level": 3
+          }
+        , "noteCount": 279
+        , "bpm":
+          { "init": 118
+          , "min": 118
+          , "median": 118
+          , "max": 118
+          }
+        , "duration": 149.74576271186442
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "litmus_allisfair_7n.bme"
+        }
+      ]
+    , "warnings": []
+    , "id": "[litmus]allisfair"
+    , "path": "[litmus]allisfair"
+    }
   , { "title": "Latch (Flip-Flop)"
     , "artist": "litmus*"
     , "genre": "Electro House"
