@@ -4909,6 +4909,191 @@
     , "id": "[w_tre]mom"
     , "path": "[w_tre]mom"
     }
+  , { "title": "starless"
+    , "artist": "Ym1024 feat. lamie*"
+    , "genre": "J-Pop Ballad"
+    , "bpm": 80
+    , "artist_url": "http://yellowmapleleaf.com/"
+    , "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=37&event=76"
+    , "song_url": "https://soundcloud.com/ym1024/demo-starless-feat-lamie"
+    , "long_url": "https://itunes.apple.com/jp/album/hallucination/id534062529?i=534062595"
+    , "replaygain": "-9.17 dB"
+    , "added": "2016-01-13T00:00:00.000Z"
+    , "readme": "README.md"
+    , "charts":
+      [ { "md5": "b96d6716b6961c7794ee4c5ec1a5c9c0"
+        , "info":
+          { "title": "starless"
+          , "artist": "Ym1024 feat. lamie*"
+          , "genre": "J-Pop Ballad"
+          , "subtitles":
+            [ "7key Normal"
+            ]
+          , "subartists": []
+          , "difficulty": 2
+          , "level": 4
+          }
+        , "noteCount": 425
+        , "bpm":
+          { "init": 80
+          , "min": 80
+          , "median": 80
+          , "max": 80
+          }
+        , "duration": 163.10714285714286
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "starless_[7-4_Normal].bme"
+        }
+      , { "md5": "c2eff6f1bfe4b1767d92a5a8b8fd676c"
+        , "info":
+          { "title": "starless"
+          , "artist": "Ym1024 feat. lamie*"
+          , "genre": "J-Pop Ballad"
+          , "subtitles":
+            [ "7key Hyper"
+            ]
+          , "subartists": []
+          , "difficulty": 3
+          , "level": 6
+          }
+        , "noteCount": 619
+        , "bpm":
+          { "init": 80
+          , "min": 80
+          , "median": 80
+          , "max": 80
+          }
+        , "duration": 163.10714285714286
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "starless_[7-6_Hyper].bme"
+        }
+      , { "md5": "87d24ed15456c6406379f6afda93ff1f"
+        , "info":
+          { "title": "starless"
+          , "artist": "Ym1024 feat. lamie* obj:けろりん"
+          , "genre": "J-Pop Ballad"
+          , "subtitles":
+            [ "14keys Another"
+            ]
+          , "subartists": []
+          , "difficulty": 4
+          , "level": 12
+          }
+        , "noteCount": 644
+        , "bpm":
+          { "init": 80
+          , "min": 80
+          , "median": 80
+          , "max": 80
+          }
+        , "duration": 163.10714285714286
+        , "scratch": true
+        , "keys": "14K"
+        , "file": "starless_dpa_kero.bme"
+        }
+      , { "md5": "c50beeca6719f5f04f7e1a269b0b1f15"
+        , "info":
+          { "title": "starless"
+          , "artist": "Ym1024 feat. lamie* obj:けろりん"
+          , "genre": "J-Pop Ballad"
+          , "subtitles":
+            [ "14keys Hyper"
+            ]
+          , "subartists": []
+          , "difficulty": 3
+          , "level": 8
+          }
+        , "noteCount": 281
+        , "bpm":
+          { "init": 80
+          , "min": 80
+          , "median": 80
+          , "max": 80
+          }
+        , "duration": 163.10714285714286
+        , "scratch": true
+        , "keys": "14K"
+        , "file": "starless_dph_kero.bme"
+        }
+      , { "md5": "3f413ceed159211d7a0cc2db631ee061"
+        , "info":
+          { "title": "starless"
+          , "artist": "Ym1024 feat. lamie* obj:けろりん"
+          , "genre": "J-Pop Ballad"
+          , "subtitles":
+            [ "14keys Normal"
+            ]
+          , "subartists": []
+          , "difficulty": 2
+          , "level": 3
+          }
+        , "noteCount": 216
+        , "bpm":
+          { "init": 80
+          , "min": 80
+          , "median": 80
+          , "max": 80
+          }
+        , "duration": 163.10714285714286
+        , "scratch": true
+        , "keys": "14K"
+        , "file": "starless_dpn_kero.bme"
+        }
+      , { "md5": "88851a0c4a3f5fc3e0412ceffb38221a"
+        , "info":
+          { "title": "starless"
+          , "artist": "Ym1024 feat. lamie*(obj.WAS)"
+          , "genre": "J-Pop Ballad"
+          , "subtitles":
+            [ "7key LuNLuN"
+            ]
+          , "subartists": []
+          , "difficulty": 5
+          , "level": 7
+          }
+        , "noteCount": 628
+        , "bpm":
+          { "init": 80
+          , "min": 80
+          , "median": 80
+          , "max": 80
+          }
+        , "duration": 163.10714285714286
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "starless_was.bml"
+        }
+      , { "md5": "f2ac4fff115ac1137bb28d8a0ece1bc4"
+        , "info":
+          { "title": "starless"
+          , "artist": "Ym1024 feat. lamie*(obj.WAS)"
+          , "genre": "J-Pop Ballad"
+          , "subtitles":
+            [ "7key LuNLuN LightversioN"
+            ]
+          , "subartists": []
+          , "difficulty": 5
+          , "level": 4
+          }
+        , "noteCount": 605
+        , "bpm":
+          { "init": 80
+          , "min": 80
+          , "median": 80
+          , "max": 80
+          }
+        , "duration": 163.10714285714286
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "starless_waslight.bml"
+        }
+      ]
+    , "warnings": []
+    , "id": "[ym1024]starless"
+    , "path": "[ym1024]starless"
+    }
   , { "title": "Amusing Colorful Pudding."
     , "artist": "yukitani"
     , "genre": "Electro Swing Pop"
