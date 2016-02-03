@@ -2583,6 +2583,96 @@
     , "id": "[litmus]latch"
     , "path": "[litmus]latch"
     }
+  , { "title": "Fall in Lovescream"
+    , "artist": "litmus*"
+    , "genre": "Electro"
+    , "bpm": 130
+    , "artist_url": "https://soundcloud.com/litmus_star"
+    , "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=37&event=104"
+    , "song_url": "https://soundcloud.com/litmus_star/bofu2015-fall-in-lovescream"
+    , "long_url": "https://soundcloud.com/litmus_star/fall-in-lovescream"
+    , "youtube_url": "https://www.youtube.com/watch?v=VFuXSC9Jc_o"
+    , "replaygain": "-11.39 dB"
+    , "added": "2016-02-03T00:00:00.000Z"
+    , "readme": "README.md"
+    , "charts":
+      [ { "md5": "b4b96c419fa0b3b60389abadb1be7af9"
+        , "info":
+          { "title": "Fall in Lovescream"
+          , "artist": "litmus*"
+          , "genre": "Electro"
+          , "subtitles":
+            [ "Another"
+            ]
+          , "subartists": []
+          , "difficulty": 4
+          , "level": 9
+          }
+        , "noteCount": 1011
+        , "bpm":
+          { "init": 130
+          , "min": 130
+          , "median": 130
+          , "max": 130
+          }
+        , "duration": 119.88461538461539
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "litmus_lovescream_7a.bme"
+        }
+      , { "md5": "bba553a3eaa17fdb76efb4f529ec1775"
+        , "info":
+          { "title": "Fall in Lovescream"
+          , "artist": "litmus*"
+          , "genre": "Electro"
+          , "subtitles":
+            [ "Hyper"
+            ]
+          , "subartists": []
+          , "difficulty": 3
+          , "level": 7
+          }
+        , "noteCount": 566
+        , "bpm":
+          { "init": 130
+          , "min": 130
+          , "median": 130
+          , "max": 130
+          }
+        , "duration": 119.88461538461539
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "litmus_lovescream_7h.bme"
+        }
+      , { "md5": "ccd4dab2856a2ab2d883747d9c523753"
+        , "info":
+          { "title": "Fall in Lovescream"
+          , "artist": "litmus*"
+          , "genre": "Electro"
+          , "subtitles":
+            [ "Normal"
+            ]
+          , "subartists": []
+          , "difficulty": 2
+          , "level": 2
+          }
+        , "noteCount": 184
+        , "bpm":
+          { "init": 130
+          , "min": 130
+          , "median": 130
+          , "max": 130
+          }
+        , "duration": 119.88461538461539
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "litmus_lovescream_7n.bme"
+        }
+      ]
+    , "warnings": []
+    , "id": "[litmus]lovescream"
+    , "path": "[litmus]lovescream"
+    }
   , { "title": "Scorpion Dance"
     , "artist": "litmus*"
     , "genre": "Electro Dance House"
@@ -4913,6 +5003,7 @@
     , "artist": "Ym1024 feat. lamie*"
     , "genre": "J-Pop Ballad"
     , "bpm": 80
+    , "alias_of": "Ym1024"
     , "artist_url": "http://yellowmapleleaf.com/"
     , "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=37&event=76"
     , "song_url": "https://soundcloud.com/ym1024/demo-starless-feat-lamie"
