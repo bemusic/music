@@ -6,6 +6,7 @@ song_url: https://soundcloud.com/polycube/polycube-lastmorn
 youtube_url: https://www.youtube.com/watch?v=lQKFK-rqF4o
 replaygain: -12.15 dB
 added: 2015-12-30
+bmssearch_id: 2472
 ---
 
 死よ、時間の海を越えて飛んでゆけ。

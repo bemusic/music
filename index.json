@@ -9,6 +9,9 @@
     , "youtube_url": "https://www.youtube.com/watch?v=Ccw_5c1apao"
     , "added": "2015-08-06T00:00:00.000Z"
     , "replaygain": "-6.41 dB"
+    , "video_url": "https://bga.bemuse.ninja/exargon.webm"
+    , "video_offset": 0
+    , "bmssearch_id": 3165
     , "readme": "README.md"
     , "charts":
       [ { "md5": "7e62a5af97f829c014b6432eec3df38f"
@@ -182,6 +185,7 @@
     , "youtube_url": "https://www.youtube.com/watch?v=gtoCNSfJoZc"
     , "replaygain": "-11.87 dB"
     , "added": "2015-12-01T00:00:00.000Z"
+    , "bmssearch_id": 2477
     , "readme": "README.md"
     , "charts":
       [ { "md5": "fbb8cd9a867cb0e463baff6f2e0547a4"
@@ -361,6 +365,7 @@
     , "youtube_url": "https://www.youtube.com/watch?v=UkbCgtEVe-0"
     , "added": "2015-06-07T00:00:00.000Z"
     , "replaygain": "-9.17 dB"
+    , "bmssearch_id": 1393
     , "readme": "README.md"
     , "charts":
       [ { "md5": "e1362b8c041ca6c872a75e14879ff0eb"
@@ -624,6 +629,7 @@
     , "long_url": "https://soundcloud.com/aoi-kakuta/groundbreaking-mix"
     , "youtube_url": "https://www.youtube.com/watch?v=IUAE-nai4Vc"
     , "replaygain": "+0.01 dB"
+    , "bmssearch_id": 2154
     , "readme": "README.md"
     , "charts":
       [ { "md5": "b301d67f3639cd2701c5ef7a25485a34"
@@ -746,6 +752,7 @@
     , "youtube_url": "https://www.youtube.com/watch?v=hP6ieXJi8YA"
     , "added": "2015-05-21T00:00:00.000Z"
     , "replaygain": "-15.10 dB"
+    , "bmssearch_id": 3687
     , "readme": "README.md"
     , "charts":
       [ { "md5": "baae9b04cdd0898e8a32ff2fe42a9953"
@@ -997,6 +1004,7 @@
     , "youtube_url": "https://www.youtube.com/watch?v=O-uGBzMv4J4"
     , "added": "2015-05-21T00:00:00.000Z"
     , "replaygain": "-12.21 dB"
+    , "bmssearch_id": 2237
     , "readme": "README.md"
     , "charts":
       [ { "md5": "087c506814ea8970695f146ff42970f6"
@@ -1114,6 +1122,7 @@
     , "youtube_url": "https://www.youtube.com/watch?v=mBTt_1bD_nY"
     , "added": "2015-05-26T00:00:00.000Z"
     , "replaygain": "-6.84 dB"
+    , "bmssearch_id": 2997
     , "readme": "README.md"
     , "charts":
       [ { "md5": "901c4759a1f4487b320cf974a8ddd8be"
@@ -1226,6 +1235,7 @@
     , "youtube_url": "https://www.youtube.com/watch?v=qozfi10E14w"
     , "added": "2015-06-03T00:00:00.000Z"
     , "replaygain": "-9.03 dB"
+    , "bmssearch_id": 79
     , "readme": "README.md"
     , "charts":
       [ { "md5": "a178a4fd81d846cc0850dca2d52d5702"
@@ -1402,6 +1412,7 @@
     , "youtube_url": "https://www.youtube.com/watch?v=KUoi1Hp-bzM"
     , "replaygain": "-12.27 dB"
     , "added": "2015-12-23T00:00:00.000Z"
+    , "bmssearch_id": 4109
     , "readme": "README.md"
     , "charts":
       [ { "md5": "72072a8d04eec7dd54f8b4b6ae75c422"
@@ -1490,6 +1501,7 @@
     , "song_url": "https://soundcloud.com/iceloki/l-bms-edit"
     , "youtube_url": "https://www.youtube.com/watch?v=ZXy_1LA-RlA"
     , "replaygain": "-12.62 dB"
+    , "bmssearch_id": 1548
     , "readme": "README.md"
     , "charts":
       [ { "md5": "07bde7731a578ffb1af4a27948b002ac"
@@ -1770,6 +1782,7 @@
     , "song_url": "https://soundcloud.com/jun_kuroda/12jun-kuroda-terpsichore"
     , "added": "2015-07-28T00:00:00.000Z"
     , "replaygain": "-13.88 dB"
+    , "bmssearch_id": 3162
     , "readme": "README.md"
     , "charts":
       [ { "md5": "8ee27fdf11d23e00a8d51de977068b7e"
@@ -1910,6 +1923,7 @@
     , "youtube_url": "https://www.youtube.com/watch?v=KyzbSpSsNCk"
     , "added": "2015-09-18T00:00:00.000Z"
     , "replaygain": "-9.91 dB"
+    , "bmssearch_id": 4110
     , "readme": "README.md"
     , "charts":
       [ { "md5": "20daf6c408b4dd1d427efea71e194367"
@@ -2032,6 +2046,7 @@
     , "youtube_url": "https://www.youtube.com/watch?v=3C5zNU2JCdc"
     , "added": "2015-08-26T00:00:00.000Z"
     , "replaygain": "-10.29 dB"
+    , "bmssearch_id": 2259
     , "readme": "README.md"
     , "charts":
       [ { "md5": "3c5e7480d7851c75330e0266cbbf4eed"
@@ -2204,6 +2219,7 @@
     , "long_url": "https://soundcloud.com/kanki2/harmonylong-ver"
     , "added": "2015-04-29T00:00:00.000Z"
     , "replaygain": "-12.58 dB"
+    , "bmssearch_id": 2113
     , "readme": "README.md"
     , "charts":
       [ { "md5": "47b7f262e3a39b404a9ec1d30b720737"
@@ -2343,6 +2359,7 @@
     , "youtube_url": "https://www.youtube.com/watch?v=8J8ufaISZrQ"
     , "replaygain": "-10.82 dB"
     , "added": "2016-01-06T00:00:00.000Z"
+    , "bmssearch_id": 2592
     , "readme": "README.md"
     , "charts":
       [ { "md5": "e2f2ac0becd92d7e0c0f32dc1a183b08"
@@ -2504,6 +2521,7 @@
     , "added": "2015-04-30T00:00:00.000Z"
     , "youtube_url": "https://www.youtube.com/watch?v=9C7zxHckers"
     , "replaygain": "-9.60 dB"
+    , "bmssearch_id": 115
     , "readme": "README.md"
     , "charts":
       [ { "md5": "5ee748d06edbe6bbc8a15aa74c1f3ff7"
@@ -2594,6 +2612,7 @@
     , "youtube_url": "https://www.youtube.com/watch?v=VFuXSC9Jc_o"
     , "replaygain": "-11.39 dB"
     , "added": "2016-02-03T00:00:00.000Z"
+    , "bmssearch_id": 2524
     , "readme": "README.md"
     , "charts":
       [ { "md5": "b4b96c419fa0b3b60389abadb1be7af9"
@@ -2683,6 +2702,7 @@
     , "added": "2015-04-30T00:00:00.000Z"
     , "youtube_url": "https://www.youtube.com/watch?v=9C7zxHckers"
     , "replaygain": "-12.96 dB"
+    , "bmssearch_id": 2224
     , "readme": "README.md"
     , "charts":
       [ { "md5": "350371601afb94c70fa9f5ae4f67af29"
@@ -2908,6 +2928,7 @@
     , "long_url": "https://soundcloud.com/mo_no_chrome/kindly-breeze-long_ver"
     , "added": "2015-08-12T00:00:00.000Z"
     , "replaygain": "-7.53 dB"
+    , "bmssearch_id": 2146
     , "readme": "README.md"
     , "charts":
       [ { "md5": "e4bb8b8c08a4e054390cfc0b58272563"
@@ -3041,6 +3062,7 @@
     , "long_url": "https://soundcloud.com/pluck_ryo/groundbreaking-g2r2014-futurity-original-mix"
     , "added": "2015-05-14T00:00:00.000Z"
     , "replaygain": "-8.37 dB"
+    , "bmssearch_id": 2207
     , "readme": "README.md"
     , "charts":
       [ { "md5": "2c3e80ff3d17213ddc8cbe0ee77bde79"
@@ -3131,6 +3153,7 @@
     , "added": "2015-05-08T00:00:00.000Z"
     , "youtube_url": "https://www.youtube.com/watch?v=hVFwvPIbR7c"
     , "replaygain": "-12.26 dB"
+    , "bmssearch_id": 2147
     , "readme": "README.md"
     , "charts":
       [ { "md5": "bb32cc9021a4dfb60c76911b977cd856"
@@ -3268,6 +3291,7 @@
     , "youtube_url": "https://www.youtube.com/watch?v=lQKFK-rqF4o"
     , "replaygain": "-12.15 dB"
     , "added": "2015-12-30T00:00:00.000Z"
+    , "bmssearch_id": 2472
     , "readme": "README.md"
     , "charts":
       [ { "md5": "3cf15c75d18235e45f5e969cdc496b65"
@@ -3406,6 +3430,7 @@
     , "song_url": "https://soundcloud.com/puru/homura"
     , "long_url": "https://soundcloud.com/puru/homuraextendmix"
     , "replaygain": "-6.11 dB"
+    , "bmssearch_id": 2284
     , "readme": "README.md"
     , "charts":
       [ { "md5": "53b31ae4944b9d945ea976c0845cf1f8"
@@ -3519,6 +3544,7 @@
     , "long_url": "https://soundcloud.com/pineappledigital/puru-toki-original-mix-preview"
     , "youtube_url": "https://www.youtube.com/watch?v=9hLkkNCL-yM"
     , "replaygain": "-6.87 dB"
+    , "bmssearch_id": 1571
     , "readme": "README.md"
     , "charts":
       [ { "md5": "ea0ab466efb607f7429b31e8a63b09f4"
@@ -3758,6 +3784,7 @@
     , "youtube_url": "https://www.youtube.com/watch?v=EU-YFSJCOH0"
     , "replaygain": "-10.96 dB"
     , "added": "2015-12-09T00:00:00.000Z"
+    , "bmssearch_id": 2776
     , "readme": "README.md"
     , "charts":
       [ { "md5": "8263ea0c95383b9056b8a52d386ffdea"
@@ -3847,6 +3874,7 @@
     , "youtube_url": "https://www.youtube.com/watch?v=wbThGxfnuDg"
     , "replaygain": "-12.45 dB"
     , "added": "2015-12-09T00:00:00.000Z"
+    , "bmssearch_id": 2777
     , "readme": "README.md"
     , "charts":
       [ { "md5": "8a7a65823e0bc7ab263c2cbcbb8f86d5"
@@ -3962,6 +3990,7 @@
     , "youtube_url": "https://www.youtube.com/watch?v=GmJzl12hi8s"
     , "added": "2015-11-25T00:00:00.000Z"
     , "replaygain": "-13.27 dB"
+    , "bmssearch_id": 2778
     , "readme": "README.md"
     , "charts":
       [ { "md5": "a36509938aaebdb990990ba841555be3"
@@ -4075,6 +4104,7 @@
     , "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=98&event=96"
     , "song_url": "https://soundcloud.com/ricora/g2rbms"
     , "replaygain": "-7.86 dB"
+    , "bmssearch_id": 2255
     , "readme": "README.md"
     , "charts":
       [ { "md5": "23b6aae160154b4dda9cbca7c4368c1c"
@@ -4163,6 +4193,7 @@
     , "song_url": "https://soundcloud.com/sky_delta/kreuz"
     , "youtube_url": "https://www.youtube.com/watch?v=lqOmjcuF-No"
     , "replaygain": "-12.08 dB"
+    , "bmssearch_id": 2190
     , "readme": "README.md"
     , "charts":
       [ { "md5": "5c29aeca8a8b2f303d6587f50277c939"
@@ -4251,6 +4282,7 @@
     , "song_url": "https://soundcloud.com/korsnack/ddddevelopers"
     , "youtube_url": "https://www.youtube.com/watch?v=ovgcVc5wb9E"
     , "replaygain": "-10.65 dB"
+    , "bmssearch_id": 66
     , "readme": "README.md"
     , "charts":
       [ { "md5": "1d33d50e2d0a06e85f8eb6b5eab8ea08"
@@ -4425,6 +4457,263 @@
     , "warnings": []
     , "id": "[snack]dddd"
     , "path": "[snack]dddd"
+    }
+  , { "title": "Encrux"
+    , "artist": "Sobrem"
+    , "genre": "Story"
+    , "bpm": 162
+    , "artist_url": "https://soundcloud.com/Sobrem"
+    , "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=297&event=104"
+    , "song_url": "https://soundcloud.com/sobrem/encrux"
+    , "youtube_url": "https://www.youtube.com/watch?v=HF7Z0gEvhCw"
+    , "added": "2016-06-24T00:00:00.000Z"
+    , "video_url": "https://bga.bemuse.ninja/encrux.webm"
+    , "video_offset": 1.3
+    , "replaygain": "-10.98 dB"
+    , "bmssearch_id": 2663
+    , "readme": "README.md"
+    , "charts":
+      [ { "md5": "d65aa7b67d31d9b20a87b47c92d02058"
+        , "info":
+          { "title": "Encrux"
+          , "artist": "Sobrem"
+          , "genre": "Story"
+          , "subtitles":
+            [ "DP"
+            ]
+          , "subartists": []
+          , "difficulty": 3
+          , "level": 11
+          }
+        , "noteCount": 559
+        , "bpm":
+          { "init": 162
+          , "min": 162
+          , "median": 162
+          , "max": 162
+          }
+        , "duration": 137.59259259259258
+        , "scratch": true
+        , "keys": "14K"
+        , "file": "_encrux_d2.bme"
+        }
+      , { "md5": "efb263d319a93527a02eb71cbb6363f0"
+        , "info":
+          { "title": "Encrux"
+          , "artist": "Sobrem"
+          , "genre": "Story"
+          , "subtitles":
+            [ "normal"
+            ]
+          , "subartists": []
+          , "difficulty": 2
+          , "level": 5
+          }
+        , "noteCount": 347
+        , "bpm":
+          { "init": 162
+          , "min": 162
+          , "median": 162
+          , "max": 162
+          }
+        , "duration": 137.59259259259258
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "_encrux_s1.bme"
+        }
+      , { "md5": "12fce2fda1a7d310d152d27b7da9d23e"
+        , "info":
+          { "title": "Encrux"
+          , "artist": "Sobrem"
+          , "genre": "Story"
+          , "subtitles":
+            [ "hyper"
+            ]
+          , "subartists": []
+          , "difficulty": 3
+          , "level": 10
+          }
+        , "noteCount": 890
+        , "bpm":
+          { "init": 162
+          , "min": 162
+          , "median": 162
+          , "max": 162
+          }
+        , "duration": 137.59259259259258
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "_encrux_s2.bme"
+        }
+      , { "md5": "8bb79c20e56a7a6ee0d8a29170fdd967"
+        , "info":
+          { "title": "Encrux"
+          , "artist": "Sobrem"
+          , "genre": "Story"
+          , "subtitles":
+            [ "another"
+            ]
+          , "subartists": []
+          , "difficulty": 4
+          , "level": 12
+          }
+        , "noteCount": 1428
+        , "bpm":
+          { "init": 162
+          , "min": 162
+          , "median": 162
+          , "max": 162
+          }
+        , "duration": 137.59259259259258
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "_encrux_s3.bme"
+        }
+      , { "md5": "4c3b9a83e5a19d7217593195672ee5d6"
+        , "info":
+          { "title": "Encrux"
+          , "artist": "Sobrem"
+          , "genre": "Story"
+          , "subtitles":
+            [ "insane"
+            ]
+          , "subartists":
+            [ "obj. Lapis"
+            ]
+          , "difficulty": 5
+          , "level": 12
+          }
+        , "noteCount": 1806
+        , "bpm":
+          { "init": 162
+          , "min": 162
+          , "median": 162
+          , "max": 162
+          }
+        , "duration": 137.59259259259258
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "_encrux_s4.bme"
+        }
+      ]
+    , "warnings": []
+    , "id": "[sobrem]encrux"
+    , "path": "[sobrem]encrux"
+    }
+  , { "title": "\"P\" stands for \"Party!\""
+    , "artist": "Sobrem"
+    , "genre": "Mashup"
+    , "bpm": 150
+    , "artist_url": "https://soundcloud.com/Sobrem"
+    , "bms_url": "http://k-bms.com/party_pabat/party2016.jsp?board_num=16&num=51"
+    , "song_url": "https://soundcloud.com/sobrem/party"
+    , "youtube_url": "https://www.youtube.com/watch?v=j_yTD3VFn1Q"
+    , "added": "2016-06-24T00:00:00.000Z"
+    , "video_url": "https://bga.bemuse.ninja/p_stands_for_party.webm"
+    , "video_offset": 1.55
+    , "replaygain": "-9.57 dB"
+    , "readme": "README.md"
+    , "charts":
+      [ { "md5": "b963e1f212e3783cfd566b59b5cb472d"
+        , "info":
+          { "title": "\"P\" stands for \"Party!\""
+          , "artist": "Sobrem"
+          , "genre": "Mashup"
+          , "subtitles":
+            [ "Beginner"
+            ]
+          , "subartists": []
+          , "difficulty": 1
+          , "level": 1
+          }
+        , "noteCount": 168
+        , "bpm":
+          { "init": 150
+          , "min": 150
+          , "median": 150
+          , "max": 150
+          }
+        , "duration": 138.4
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "_pbc_s01.bme"
+        }
+      , { "md5": "c6c5e5e20b53983ba59252ddcc205b5b"
+        , "info":
+          { "title": "\"P\" stands for \"Party!\""
+          , "artist": "Sobrem"
+          , "genre": "Mashup"
+          , "subtitles":
+            [ "Normal"
+            ]
+          , "subartists": []
+          , "difficulty": 2
+          , "level": 5
+          }
+        , "noteCount": 477
+        , "bpm":
+          { "init": 150
+          , "min": 150
+          , "median": 150
+          , "max": 150
+          }
+        , "duration": 138.4
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "_pbc_s02.bme"
+        }
+      , { "md5": "8d80d1732fa4c81dcbd4ddfd1673d949"
+        , "info":
+          { "title": "\"P\" stands for \"Party!\""
+          , "artist": "Sobrem"
+          , "genre": "Mashup"
+          , "subtitles":
+            [ "Hyper"
+            ]
+          , "subartists": []
+          , "difficulty": 0
+          , "level": 8
+          }
+        , "noteCount": 683
+        , "bpm":
+          { "init": 150
+          , "min": 150
+          , "median": 150
+          , "max": 150
+          }
+        , "duration": 138.4
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "_pbc_s03.bme"
+        }
+      , { "md5": "b81eea46f8600fabab3e3f6bce2a2cc7"
+        , "info":
+          { "title": "\"P\" stands for \"Party!\""
+          , "artist": "Sobrem"
+          , "genre": "Mashup"
+          , "subtitles":
+            [ "Another"
+            ]
+          , "subartists": []
+          , "difficulty": 4
+          , "level": 12
+          }
+        , "noteCount": 1443
+        , "bpm":
+          { "init": 150
+          , "min": 150
+          , "median": 150
+          , "max": 150
+          }
+        , "duration": 138.4
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "_pbc_s04.bme"
+        }
+      ]
+    , "warnings": []
+    , "id": "[sobrem]p_stands_for_party"
+    , "path": "[sobrem]p_stands_for_party"
     }
   , { "title": "Upside-down"
     , "artist": "すてらべえ"

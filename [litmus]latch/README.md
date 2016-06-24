@@ -6,4 +6,5 @@ song_url: https://soundcloud.com/ayano-quasar/latch-flip-flop
 added: 2015-04-30
 youtube_url: https://www.youtube.com/watch?v=9C7zxHckers
 replaygain: -9.60 dB
+bmssearch_id: 115
 ---

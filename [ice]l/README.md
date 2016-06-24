@@ -5,6 +5,7 @@ bms_url: http://manbow.nothing.sh/event/event.cgi?action=More_def&num=146&event=
 song_url: https://soundcloud.com/iceloki/l-bms-edit
 youtube_url: https://www.youtube.com/watch?v=ZXy_1LA-RlA
 replaygain: -12.62 dB
+bmssearch_id: 1548
 ---
 
 【基本データ】

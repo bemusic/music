@@ -6,6 +6,7 @@ song_url: https://soundcloud.com/q-stol/bofu2015the-bass-kills-you
 youtube_url: https://www.youtube.com/watch?v=GmJzl12hi8s
 added: 2015-11-25
 replaygain: -13.27 dB
+bmssearch_id: 2778
 ---
 
 The Bass Kills You by q/stol

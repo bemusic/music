@@ -6,6 +6,7 @@ song_url: https://soundcloud.com/mo_no_chrome/kindly-breeze-featsalita
 long_url: https://soundcloud.com/mo_no_chrome/kindly-breeze-long_ver
 added: 2015-08-12
 replaygain: -7.53 dB
+bmssearch_id: 2146
 ---
 
 曲名:kindly breeze  

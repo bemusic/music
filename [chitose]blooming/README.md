@@ -7,4 +7,5 @@ song_url: https://soundcloud.com/chitose-yuki/blooming
 youtube_url: https://www.youtube.com/watch?v=hP6ieXJi8YA
 added: 2015-05-21
 replaygain: -15.10 dB
+bmssearch_id: 3687
 ---

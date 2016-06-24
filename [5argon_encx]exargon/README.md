@@ -6,6 +6,9 @@ song_url: https://soundcloud.com/5argon/encx-exargon
 youtube_url: https://www.youtube.com/watch?v=Ccw_5c1apao
 added: 2015-08-06
 replaygain: -6.41 dB
+video_url: https://bga.bemuse.ninja/exargon.webm
+video_offset: 0
+bmssearch_id: 3165
 ---
 
 タイからこんにちは！  

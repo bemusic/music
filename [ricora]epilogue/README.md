@@ -4,6 +4,7 @@ artist_url: https://soundcloud.com/ricora
 bms_url: http://manbow.nothing.sh/event/event.cgi?action=More_def&num=98&event=96
 song_url: https://soundcloud.com/ricora/g2rbms
 replaygain: -7.86 dB
+bmssearch_id: 2255
 ---
 
 ""第一回 ああ…翡翠茶漬け… 会議の様子""

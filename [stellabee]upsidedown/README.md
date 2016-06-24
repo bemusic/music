@@ -6,6 +6,7 @@ song_url: https://soundcloud.com/stella_hiragana/bms-upside-down
 youtube_url: https://www.youtube.com/watch?v=jw-4QbUTZR8
 added: 2015-08-19
 replaygain: -10.93 dB
+bmssearch_id: 3161
 ---
 
 初めまして！！BMS初参加のすてらべえです！！！！

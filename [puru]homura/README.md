@@ -5,4 +5,5 @@ bms_url: http://manbow.nothing.sh/event/event.cgi?action=More_def&num=242&event=
 song_url: https://soundcloud.com/puru/homura
 long_url: https://soundcloud.com/puru/homuraextendmix
 replaygain: -6.11 dB
+bmssearch_id: 2284
 ---

@@ -6,6 +6,7 @@ bms_url: http://manbow.nothing.sh/event/event.cgi?action=More_def&num=30&event=9
 youtube_url: https://www.youtube.com/watch?v=mBTt_1bD_nY
 added: 2015-05-26
 replaygain: -6.84 dB
+bmssearch_id: 2997
 ---
 
     Music:Dance Doll Dream

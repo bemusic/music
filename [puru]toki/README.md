@@ -6,4 +6,5 @@ song_url: https://soundcloud.com/puru/bof2012-toki-bms-ver
 long_url: https://soundcloud.com/pineappledigital/puru-toki-original-mix-preview
 youtube_url: https://www.youtube.com/watch?v=9hLkkNCL-yM
 replaygain: -6.87 dB
+bmssearch_id: 1571
 ---

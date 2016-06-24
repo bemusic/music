@@ -5,4 +5,5 @@ bms_url: http://k-bms.com/party_pabat/party2015.jsp?board_num=15&num=16&order=re
 song_url: https://soundcloud.com/korsnack/ddddevelopers
 youtube_url: https://www.youtube.com/watch?v=ovgcVc5wb9E
 replaygain: -10.65 dB
+bmssearch_id: 66
 ---

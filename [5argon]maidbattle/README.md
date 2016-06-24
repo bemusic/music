@@ -6,6 +6,7 @@ song_url: https://soundcloud.com/5argon/maid-battle
 youtube_url: https://www.youtube.com/watch?v=gtoCNSfJoZc
 replaygain: -11.87 dB
 added: 2015-12-01
+bmssearch_id: 2477
 ---
 
 Title: Maid Battle
