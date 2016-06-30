@@ -4184,6 +4184,233 @@
     , "id": "[ricora]epilogue"
     , "path": "[ricora]epilogue"
     }
+  , { "title": "Lyzoande for sacrifice"
+    , "artist": "シア(CV:mia)×レイナ(CV:mirina) / Music:Sakamiya"
+    , "genre": "Phonicgain"
+    , "bpm": 166
+    , "alias_of": "Sakamiya"
+    , "artist_url": "http://dipathos.web.fc2.com/"
+    , "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=23&event=108"
+    , "song_url": "https://soundcloud.com/user-818789960/13lyzoande-for-sacrifice"
+    , "added": "2016-06-29T00:00:00.000Z"
+    , "video_url": "https://bga.bemuse.ninja/lyzoande_for_sacrifice.webm"
+    , "video_offset": 1.445783133
+    , "replaygain": "-14.05 dB"
+    , "readme": "README.md"
+    , "charts":
+      [ { "md5": "556d045957cf0c55656e82fa44e86a2b"
+        , "info":
+          { "title": "Lyzoande for sacrifice"
+          , "artist": "シア(CV:mia)×レイナ(CV:mirina) / Music:Sakamiya"
+          , "genre": "Phonicgain"
+          , "subtitles":
+            [ "[DP Normal]"
+            ]
+          , "subartists":
+            [ "mov:hrchem notes:OSR"
+            ]
+          , "difficulty": 2
+          , "level": 6
+          }
+        , "noteCount": 258
+        , "bpm":
+          { "init": 83
+          , "min": 83
+          , "median": 166
+          , "max": 166
+          }
+        , "duration": 124.33734939759036
+        , "scratch": true
+        , "keys": "14K"
+        , "file": "_utf8__Lyzoande_Dp1.bms"
+        }
+      , { "md5": "24775efb53238875108c6446ab32e6d5"
+        , "info":
+          { "title": "Lyzoande for sacrifice"
+          , "artist": "シア(CV:mia)×レイナ(CV:mirina) / Music:Sakamiya"
+          , "genre": "Phonicgain"
+          , "subtitles":
+            [ "[DP Hyper]"
+            ]
+          , "subartists":
+            [ "mov:hrchem notes:OSR"
+            ]
+          , "difficulty": 3
+          , "level": 10
+          }
+        , "noteCount": 500
+        , "bpm":
+          { "init": 83
+          , "min": 83
+          , "median": 166
+          , "max": 166
+          }
+        , "duration": 124.33734939759036
+        , "scratch": true
+        , "keys": "14K"
+        , "file": "_utf8__Lyzoande_Dp2.bms"
+        }
+      , { "md5": "e4ad74fc126683ef1dfdaf7cd7384161"
+        , "info":
+          { "title": "Lyzoande for sacrifice"
+          , "artist": "シア(CV:mia)×レイナ(CV:mirina) / Music:Sakamiya"
+          , "genre": "Phonicgain"
+          , "subtitles":
+            [ "[DP Another]"
+            ]
+          , "subartists":
+            [ "mov:hrchem notes:OSR"
+            ]
+          , "difficulty": 4
+          , "level": 12
+          }
+        , "noteCount": 828
+        , "bpm":
+          { "init": 83
+          , "min": 83
+          , "median": 166
+          , "max": 166
+          }
+        , "duration": 124.33734939759036
+        , "scratch": true
+        , "keys": "14K"
+        , "file": "_utf8__Lyzoande_Dp3.bms"
+        }
+      , { "md5": "67f371d219d7e7c0fb193ad30e4ef020"
+        , "info":
+          { "title": "Lyzoande for sacrifice"
+          , "artist": "シア(CV:mia)×レイナ(CV:mirina) / Music:Sakamiya"
+          , "genre": "Phonicgain"
+          , "subtitles":
+            [ "[Beginner]"
+            ]
+          , "subartists":
+            [ "mov:hrchem"
+            ]
+          , "difficulty": 1
+          , "level": 3
+          }
+        , "noteCount": 251
+        , "bpm":
+          { "init": 83
+          , "min": 83
+          , "median": 166
+          , "max": 166
+          }
+        , "duration": 124.33734939759036
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "_utf8__Lyzoande_Lv1.bms"
+        }
+      , { "md5": "a2119da7f4eb757c03b4168a2a5e47f2"
+        , "info":
+          { "title": "Lyzoande for sacrifice"
+          , "artist": "シア(CV:mia)×レイナ(CV:mirina) / Music:Sakamiya"
+          , "genre": "Phonicgain"
+          , "subtitles":
+            [ "[Normal]"
+            ]
+          , "subartists":
+            [ "mov:hrchem"
+            ]
+          , "difficulty": 2
+          , "level": 7
+          }
+        , "noteCount": 573
+        , "bpm":
+          { "init": 83
+          , "min": 83
+          , "median": 166
+          , "max": 166
+          }
+        , "duration": 124.33734939759036
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "_utf8__Lyzoande_Lv2.bms"
+        }
+      , { "md5": "9d46acfdc18f7aab0f21da8425b66410"
+        , "info":
+          { "title": "Lyzoande for sacrifice"
+          , "artist": "シア(CV:mia)×レイナ(CV:mirina) / Music:Sakamiya"
+          , "genre": "Phonicgain"
+          , "subtitles":
+            [ "[Hyper]"
+            ]
+          , "subartists":
+            [ "mov:hrchem"
+            ]
+          , "difficulty": 3
+          , "level": 10
+          }
+        , "noteCount": 1000
+        , "bpm":
+          { "init": 83
+          , "min": 83
+          , "median": 166
+          , "max": 166
+          }
+        , "duration": 124.33734939759036
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "_utf8__Lyzoande_Lv3.bms"
+        }
+      , { "md5": "bb2e9a8454ea4c43869d37573d47b20f"
+        , "info":
+          { "title": "Lyzoande for sacrifice"
+          , "artist": "シア(CV:mia)×レイナ(CV:mirina) / Music:Sakamiya"
+          , "genre": "Phonicgain"
+          , "subtitles":
+            [ "[Another]"
+            ]
+          , "subartists":
+            [ "mov:hrchem"
+            ]
+          , "difficulty": 4
+          , "level": 12
+          }
+        , "noteCount": 1512
+        , "bpm":
+          { "init": 83
+          , "min": 83
+          , "median": 166
+          , "max": 166
+          }
+        , "duration": 124.33734939759036
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "_utf8__Lyzoande_Lv4.bms"
+        }
+      , { "md5": "1ce2549801f4ed6a06e3d98887c315bf"
+        , "info":
+          { "title": "Lyzoande for sacrifice"
+          , "artist": "シア(CV:mia)×レイナ(CV:mirina) / Music:Sakamiya"
+          , "genre": "Phonicgain"
+          , "subtitles":
+            [ "[Tragedy]"
+            ]
+          , "subartists":
+            [ "mov:hrchem notes:7stan"
+            ]
+          , "difficulty": 5
+          , "level": 12
+          }
+        , "noteCount": 746
+        , "bpm":
+          { "init": 83
+          , "min": 83
+          , "median": 166
+          , "max": 166
+          }
+        , "duration": 124.3184165232358
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "_utf8__Lyzoande_LvX.bms"
+        }
+      ]
+    , "warnings": []
+    , "id": "[sakamiya]lyzoande_for_sacrifice"
+    , "path": "[sakamiya]lyzoande_for_sacrifice"
+    }
   , { "title": "Kreuz"
     , "artist": "sky_delta"
     , "genre": "IDM"
@@ -4612,6 +4839,7 @@
     , "video_url": "https://bga.bemuse.ninja/p_stands_for_party.webm"
     , "video_offset": 1.55
     , "replaygain": "-9.57 dB"
+    , "bmssearch_id": 616
     , "readme": "README.md"
     , "charts":
       [ { "md5": "b963e1f212e3783cfd566b59b5cb472d"
@@ -4725,6 +4953,7 @@
     , "youtube_url": "https://www.youtube.com/watch?v=jw-4QbUTZR8"
     , "added": "2015-08-19T00:00:00.000Z"
     , "replaygain": "-10.93 dB"
+    , "bmssearch_id": 3161
     , "readme": "README.md"
     , "charts":
       [ { "md5": "0727a5a8bdeac2e655dafb7411e60c12"
@@ -4812,6 +5041,7 @@
     , "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=154&event=96"
     , "song_url": "https://soundcloud.com/cineraria_studio/airtrip-bms-mix"
     , "replaygain": "-11.00 dB"
+    , "bmssearch_id": 2245
     , "readme": "README.md"
     , "charts":
       [ { "md5": "f14357d72c2c11081fd45dc00aa4cffa"
@@ -4900,6 +5130,7 @@
     , "long_url": "https://soundcloud.com/mournfinale/void-caelumize"
     , "youtube_url": "https://www.youtube.com/watch?v=93fA-ZVD_i4"
     , "replaygain": "-10.81 dB"
+    , "bmssearch_id": 2081
     , "readme": "README.md"
     , "charts":
       [ { "md5": "dcbbecfead7fd61547c2e37910bf656f"
@@ -5007,10 +5238,11 @@
     , "artist": "w_tre"
     , "genre": "electro"
     , "bpm": 128
-    , "artist_url": "http://soundcloud.com/7_wtre"
+    , "artist_url": "http://soundcloud.com/sobrem"
     , "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=32&event=96"
-    , "song_url": "https://soundcloud.com/7_wtre/c4tw"
+    , "song_url": "https://soundcloud.com/sobrem/c4tw"
     , "replaygain": "-12.48 dB"
+    , "bmssearch_id": 2367
     , "readme": "README.md"
     , "charts":
       [ { "md5": "feadbe808a674445c759145c039036ce"
@@ -5178,9 +5410,9 @@
     , "artist": "w_tre"
     , "genre": "piano"
     , "bpm": 90
-    , "artist_url": "http://soundcloud.com/7_wtre"
+    , "artist_url": "http://soundcloud.com/sobrem"
     , "bms_url": "http://k-bms.com/party_pabat/party2015.jsp?board_num=15&num=32&order=reg&odtype=a"
-    , "song_url": "https://soundcloud.com/7_wtre/mom"
+    , "song_url": "https://soundcloud.com/sobrem/mom"
     , "youtube_url": "https://www.youtube.com/watch?v=Ti4oRsUZ8kQ"
     , "replaygain": "-9.22 dB"
     , "readme": "README.md"
@@ -5299,6 +5531,7 @@
     , "long_url": "https://itunes.apple.com/jp/album/hallucination/id534062529?i=534062595"
     , "replaygain": "-9.17 dB"
     , "added": "2016-01-13T00:00:00.000Z"
+    , "bmssearch_id": 4111
     , "readme": "README.md"
     , "charts":
       [ { "md5": "b96d6716b6961c7794ee4c5ec1a5c9c0"
@@ -5474,6 +5707,122 @@
     , "id": "[ym1024]starless"
     , "path": "[ym1024]starless"
     }
+  , { "title": "Smiling"
+    , "artist": "櫟井唯 / 岡野佳"
+    , "genre": "kawaiicore"
+    , "bpm": 172
+    , "alias_of": "Lime"
+    , "artist_url": "https://soundcloud.com/kanki2"
+    , "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=441&event=104"
+    , "song_url": "https://soundcloud.com/thankyou_yysk/yui_smiling"
+    , "long_url": "https://soundcloud.com/kanki2/lime-smilinglong-ver"
+    , "video_url": "https://bga.bemuse.ninja/smiling.webm"
+    , "video_offset": 1.395348838
+    , "added": "2016-06-29T00:00:00.000Z"
+    , "replaygain": "-12.63 dB"
+    , "readme": "README.md"
+    , "charts":
+      [ { "md5": "645a5d8e800cbb456746a50b5a0e8282"
+        , "info":
+          { "title": "Smiling"
+          , "artist": "櫟井唯 / 岡野佳"
+          , "genre": "kawaiicore"
+          , "subtitles":
+            [ "[ANOTHER7]"
+            ]
+          , "subartists": []
+          , "difficulty": 4
+          , "level": 12
+          }
+        , "noteCount": 1865
+        , "bpm":
+          { "init": 86
+          , "min": 86
+          , "median": 172
+          , "max": 172
+          }
+        , "duration": 142.23837209302326
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "_Smiling_Yui_another7.bme"
+        }
+      , { "md5": "e65c84ceb5b8c6552514568a01958d42"
+        , "info":
+          { "title": "Smiling"
+          , "artist": "櫟井唯 / 岡野佳"
+          , "genre": "kawaiicore"
+          , "subtitles":
+            [ "[EASY7]"
+            ]
+          , "subartists": []
+          , "difficulty": 1
+          , "level": 3
+          }
+        , "noteCount": 300
+        , "bpm":
+          { "init": 86
+          , "min": 86
+          , "median": 172
+          , "max": 172
+          }
+        , "duration": 142.23837209302326
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "_Smiling_Yui_easy7.bme"
+        }
+      , { "md5": "cd7b67acda08f2e8c9ff61d0b613ad93"
+        , "info":
+          { "title": "Smiling"
+          , "artist": "櫟井唯 / 岡野佳"
+          , "genre": "kawaiicore"
+          , "subtitles":
+            [ "[HYPER7]"
+            ]
+          , "subartists": []
+          , "difficulty": 3
+          , "level": 10
+          }
+        , "noteCount": 1200
+        , "bpm":
+          { "init": 86
+          , "min": 86
+          , "median": 172
+          , "max": 172
+          }
+        , "duration": 142.23837209302326
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "_Smiling_Yui_hyper7.bme"
+        }
+      , { "md5": "acce57c6b54a97374560556dc8b2428b"
+        , "info":
+          { "title": "Smiling"
+          , "artist": "櫟井唯 / 岡野佳"
+          , "genre": "kawaiicore"
+          , "subtitles":
+            [ "[NORMAL7]"
+            ]
+          , "subartists": []
+          , "difficulty": 2
+          , "level": 6
+          }
+        , "noteCount": 630
+        , "bpm":
+          { "init": 86
+          , "min": 86
+          , "median": 172
+          , "max": 172
+          }
+        , "duration": 142.23837209302326
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "_Smiling_Yui_normal7.bme"
+        }
+      ]
+    , "warnings": []
+    , "id": "[yui_ichii]smiling"
+    , "path": "[yui_ichii]smiling"
+    }
   , { "title": "Amusing Colorful Pudding."
     , "artist": "yukitani"
     , "genre": "Electro Swing Pop"
@@ -5482,6 +5831,7 @@
     , "bms_url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=147&event=96"
     , "song_url": "https://soundcloud.com/yukitani/amusing-colorful-pudding"
     , "replaygain": "-10.94 dB"
+    , "bmssearch_id": 2283
     , "readme": "README.md"
     , "charts":
       [ { "md5": "1df76e4d513ea545bf5cadfd52731abe"
